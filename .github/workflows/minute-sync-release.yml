@@ -1,0 +1,200 @@
+name: Minute Sync and Release
+
+on:
+  schedule:
+    - cron: '* * * * *'  # 每分钟运行一次同步检查
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-and-package:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout v4 branch
+        uses: actions/checkout@v4
+        with:
+          ref: v4
+          fetch-depth: 0  # 获取所有提交历史
+      
+      - name: Sync from upstream (GitHub)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # 添加上游仓库并获取更新
+          git remote add upstream https://github.com/masagrator/FPSLocker-Warehouse.git 2>/dev/null || true
+          git fetch upstream v4
+          
+          # 检查是否有上游更新
+          if git diff --quiet HEAD upstream/v4; then
+            echo "No upstream changes detected"
+            echo "upstream_changed=false" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+          
+          echo "Upstream changes detected. Merging..."
+          echo "upstream_changed=true" >> $GITHUB_OUTPUT
+          
+          # 合并上游更改
+          git merge --no-edit --no-ff upstream/v4
+          
+          # 推送回GitHub原仓库
+          git push origin v4
+          
+          echo "Successfully synced with upstream"
+      
+      - name: Setup Gitee remote
+        run: |
+          # 添加Gitee远程仓库
+          git remote add gitee https://oauth2:${{ secrets.GITEE_TOKEN }}@gitee.com/sskyswitch/FPSLocker-Warehouse.git 2>/dev/null || true
+          git fetch gitee v4 2>/dev/null || echo "Failed to fetch from Gitee or branch doesn't exist"
+      
+      - name: Sync with Gitee
+        id: sync_gitee
+        run: |
+          # 先拉取Gitee的更新（如果存在）
+          if git show-ref --verify --quiet refs/remotes/gitee/v4 2>/dev/null; then
+            echo "Gitee v4 branch exists, merging..."
+            # 检查Gitee是否有本地没有的提交
+            if ! git merge-base --is-ancestor gitee/v4 HEAD; then
+              echo "Gitee has newer commits, pulling..."
+              git merge --no-edit --no-ff gitee/v4
+            fi
+          else
+            echo "Gitee v4 branch does not exist yet"
+          fi
+          
+          # 检查是否有冲突或需要推送的更改
+          if [[ -n $(git status --porcelain) ]]; then
+            echo "Local changes detected after syncing"
+            git add .
+            git commit -m "Sync changes: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          fi
+      
+      - name: Push to Gitee
+        run: |
+          echo "Pushing to Gitee..."
+          
+          # 强制推送以确保同步（使用force-with-lease保证安全）
+          if git push gitee v4 --force-with-lease 2>&1; then
+            echo "Successfully pushed to Gitee"
+          else
+            echo "Push to Gitee failed, trying alternative approach..."
+            
+            # 如果force-with-lease失败，尝试先删除远程分支再推送
+            git push gitee --delete v4 2>/dev/null || true
+            git push gitee v4
+            
+            echo "Alternative push completed"
+          fi
+        env:
+          GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
+      
+      - name: Create version tag
+        id: version
+        run: |
+          # 生成唯一的版本标签
+          TIMESTAMP=$(date -u '+%Y%m%d-%H%M%S')
+          COMMIT_SHORT=$(git rev-parse --short HEAD)
+          VERSION="sync-$TIMESTAMP-$COMMIT_SHORT"
+          BUILD_TIME=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
+          
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+          echo "timestamp=$TIMESTAMP" >> $GITHUB_OUTPUT
+          echo "commit=$COMMIT_SHORT" >> $GITHUB_OUTPUT
+          echo "build_time=$BUILD_TIME" >> $GITHUB_OUTPUT
+      
+      - name: Create package
+        run: |
+          # 创建打包目录
+          mkdir -p fpslocker_package
+          
+          # 复制文件（根据实际需要调整）
+          cp -r modules configs *.json *.md *.txt fpslocker_package/ 2>/dev/null || true
+          
+          # 创建README文件
+          cat > fpslocker_package/README.txt << EOF
+          FPSLocker Package
+          Version: ${{ steps.version.outputs.version }}
+          Built: ${{ steps.version.outputs.build_time }}
+          Commit: ${{ steps.version.outputs.commit }}
+          
+          This is an automatically generated package.
+          
+          Last sync from upstream: $(date -u '+%Y-%m-%d %H:%M:%S UTC')
+          EOF
+          
+          # 打包文件
+          cd fpslocker_package
+          zip -r ../fpslock.zip *
+          
+          echo "Package created:"
+          ls -lh ../fpslock.zip
+      
+      - name: Check if should create release (once per day)
+        id: check_release
+        run: |
+          # 获取UTC当前小时
+          CURRENT_HOUR=$(date -u '+%H')
+          
+          # 仅在18:00 UTC创建发布（每天一次）
+          if [ "$CURRENT_HOUR" = "18" ]; then
+            echo "should_create=true" >> $GITHUB_OUTPUT
+            echo "Release will be created (daily at 18:00 UTC)"
+          else
+            echo "should_create=false" >> $GITHUB_OUTPUT
+            echo "Skipping release creation (only at 18:00 UTC)"
+          fi
+      
+      - name: Create Release (Daily)
+        if: steps.check_release.outputs.should_create == 'true'
+        uses: ncipollo/release-action@v1
+        with:
+          tag: ${{ steps.version.outputs.version }}
+          name: "Daily Build ${{ steps.version.outputs.timestamp }}"
+          body: |
+            ## Daily Build - ${{ steps.version.outputs.version }}
+            
+            **Build Time**: ${{ steps.version.outputs.build_time }}
+            **Commit Hash**: ${{ steps.version.outputs.commit }}
+            
+            This release is automatically generated by GitHub Actions, created regardless of whether there are upstream updates.
+            
+            ### Included Files
+            - fpslock.zip: Complete FPSLocker configuration package
+            
+            ### Usage Instructions
+            1. Download fpslock.zip
+            2. Extract to the appropriate directory
+            3. Use according to the configuration documentation
+            
+            > A new release is generated daily at 18:00 UTC, with version numbers based on timestamp and commit hash.
+            
+            ### Sync Status
+            - Last sync: $(date -u '+%Y-%m-%d %H:%M:%S UTC')
+            - Upstream: https://github.com/masagrator/FPSLocker-Warehouse
+            - Mirror: https://gitee.com/sskyswitch/FPSLocker-Warehouse
+          artifacts: "fpslock.zip"
+          draft: false
+          prerelease: true  # 标记为预发布版本
+          allowUpdates: false  # 不覆盖现有发布
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Cleanup temporary files
+        if: steps.check_release.outputs.should_create == 'false'
+        run: |
+          echo "Cleaning up temporary package files..."
+          rm -f fpslock.zip
+          rm -rf fpslocker_package
+      
+      - name: Summary
+        run: |
+          echo "=== Sync Summary ==="
+          echo "Timestamp: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          echo "Upstream synced: ${{ steps.sync_gitee.outputs.upstream_changed || 'false' }}"
+          echo "Gitee push attempted: true"
+          echo "Version: ${{ steps.version.outputs.version }}"
+          echo "==================="

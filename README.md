@@ -550,6 +550,7 @@ PATCH AVAILABILITY<br>
 | LEGO Party | `0100A760232D2000` | `C70A4E7B66BB6338` (◯, v2, 1.2.0) |  |
 | LEGO Star Wars: The Skywalker Saga | `010042D00D900000` | `EC593A5F9552100A` ([✅](SaltySD/plugins/FPSLocker/patches/010042D00D900000/EC593A5F9552100A.yaml), v9, 1.10.0) | ~~[📏](#📏)~~ |
 | LEGO The Incredibles | `0100F19006E04000` | `414D247F3FD8084E` (◯, v2, 1.0.2) |  |
+| LEGO The Incredibles `US` | `0100A01006E00000` | `2103782A9AE5384E` (◯, v2, 1.0.2) |  |
 | LEGO Worlds | `0100838002AEA000` | `8174C89125B5404E` (◯, v10, 1.3.2) |  |
 | Life is Strange | `0100DC301186A000` | `EE295EAAEA7D31E4` ([✅](SaltySD/plugins/FPSLocker/patches/0100DC301186A000/EE295EAAEA7D31E4.yaml), v1, 1.0.1) | ~~[📏](#📏)~~ |
 | Life is Strange 2 | `0100FD101186C000` | `BF0088C59D7E97C0` ([✅](SaltySD/plugins/FPSLocker/patches/0100FD101186C000/BF0088C59D7E97C0.yaml), v1, 1.1.0) | ~~[🔐](#🔐)[🔧](#🔧)~~ |
@@ -1076,6 +1077,7 @@ PATCH AVAILABILITY<br>
 | Valkyria Chronicles 4 | `01005C600AC68000` | `3758602AA47ADD37` (❌, v0, 1.0.0) | [👄](#👄)[⏱️](#⏱️)[🖥️](#🖥️) |
 | Vampire: The Masquerade – Swansong | `01007EE01318E000` | `36080563369C45D8` (◯, v0, 1.0.0) |  |
 | Vampyr | `01000BD00CE64000` | `E417100FFEEFD1DE` ([✅](SaltySD/plugins/FPSLocker/patches/01000BD00CE64000/E417100FFEEFD1DE.yaml), v2, 0.4) | ~~[📏](#📏)~~ |
+| VARIOUS DAYLIFE | `0100538017BAC000` | `A2DDF741D0E37D15` ([✅](SaltySD/plugins/FPSLocker/patches/0100538017BAC000/A2DDF741D0E37D15.yaml), v1, 1.0.1) | ~~[🔐](#🔐)[🔧](#🔧)~~ |
 | Viewfinder | `0100F9D023176000` | `40F9641A24F5512C` (◯, v1, 1.1.8) |  |
 | Warhammer 40,000: Boltgun | `01005FD017E60000` | `7C992B6A003C599F` ([✅](SaltySD/plugins/FPSLocker/patches/01005FD017E60000/7C992B6A003C599F.yaml), v3, 1.0.0.3) <br> `B8630C6EE3A22FE8` ([✅](SaltySD/plugins/FPSLocker/patches/01005FD017E60000/B8630C6EE3A22FE8.yaml), v5, 1.0.0.6) <br> `3E961285846C72A5` ([✅](SaltySD/plugins/FPSLocker/patches/01005FD017E60000/3E961285846C72A5.yaml), v6, 1.0.0.7) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
 | Warhammer 40000: Shootas, Blood & Teef | `010088B0155E2000` | `C9300E99B4975DCF` (◯, v3, 1.0.3_Switch) |  |

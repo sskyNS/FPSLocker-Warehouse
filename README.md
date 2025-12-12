@@ -300,7 +300,7 @@ PATCH AVAILABILITY<br>
 | Destiny Connect: Tick-Tock Travelers | `010069500DD86000` | `5AD84EFD9D28FDDE` ([✅](SaltySD/plugins/FPSLocker/patches/010069500DD86000/5AD84EFD9D28FDDE.yaml), v0, 1.0.0) | ~~[📏](#📏)~~ |
 | Destroy All Humans! | `01009E701356A000` | `72E8F20EBBDBA296` ([✅](SaltySD/plugins/FPSLocker/patches/01009E701356A000/72E8F20EBBDBA296.yaml), v1, 1.0.1) | ~~[📏](#📏)~~ |
 | Detective Pikachu Returns | `010007500F27C000` | `A2A5ABEF988ABAA2` (◯, v0, 1.0.0) |  |
-| Diablo II: Resurrected | `0100726014352000` | `D5AEB8A5826C2F71` (◯, v27, 1.0.27.0) |  |
+| Diablo II: Resurrected | `0100726014352000` | `C5E0C2DB39A8D8A3` (◯, v28, 1.0.28.0) |  |
 | Dinkum | `0100A5A020D5E000` | `8B3609ECB49DBBED` ([✅](SaltySD/plugins/FPSLocker/patches/0100A5A020D5E000/8B3609ECB49DBBED.yaml), v3, 1.0.2.44) | ~~[📷](#📷)~~ |
 | Dino Ranch: Ride to the Rescue | `010038301ABDA000` | `DDF3A995F0EC84E1` (◯, v2, 1.0.4) |  |
 | Disco Elysium - The Final Cut | `01006C5015E84000` | `26BDCC17F782A7B1` (◯, v12, 1.0.12) |  |

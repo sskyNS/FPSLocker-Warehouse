@@ -135,6 +135,7 @@ PATCH AVAILABILITY<br>
 | Atelier Resleriana | `01000F9020CD4000` | `6ACDAEE7DDC5E503` ([✅](SaltySD/plugins/FPSLocker/patches/01000F9020CD4000/6ACDAEE7DDC5E503.yaml), v4, 1.2a) <br> `F140F141FDC4C331` ([✅](SaltySD/plugins/FPSLocker/patches/01000F9020CD4000/F140F141FDC4C331.yaml), v5, 1.3) <br> `8593E6008F5A883D` ([✅](SaltySD/plugins/FPSLocker/patches/01000F9020CD4000/8593E6008F5A883D.yaml), v6, 1.4) | ~~[🏃](#🏃)~~ |
 | Atelier Rorona DX | `010088600C66E000` | `967D32BE4B10B67E` (◯, v1, 1.0.1) |  |
 | Atelier Ryza | `0100D1900EC80000` | `3474FAEE2B35BCAD` (◯, v9, 1.0.9) |  |
+| ライザのアトリエ | `010096000E1EC000` | `488B1EBAC649C983` (◯, v17, 1.0.17) |  |
 | Atelier Ryza 2 | `01009A9012022000` | `2275D20A581F37E3` (◯, v8, 1.0.8) |  |
 | Atelier Ryza 3 | `010095E018944000` | `C29B86A5D924BD38` (◯, v9, 1.7.0) |  |
 | Atelier Ryza DX | `0100199023B2E000` | `A6BE42F22D2788F8` (◯, v0, 1.0.0) |  |

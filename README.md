@@ -795,6 +795,7 @@ PATCH AVAILABILITY<br>
 | 삼국지8 REMAKE | `010019D01D736000` | `3BA6C7665F67A711` ([✅](SaltySD/plugins/FPSLocker/patches/010019D01D736000/3BA6C7665F67A711.yaml), v8, 1.0.8) | ~~[🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)~~ |
 | ROMANCE OF THE THREE KINGDOMS XIV | `0100ED7012DB2000` | `1A971CC40B6D5B3F` ([✅](SaltySD/plugins/FPSLocker/patches/0100ED7012DB2000/1A971CC40B6D5B3F.yaml), v7, 1.0.10) | ~~[🔐](#🔐)[⏱️](#⏱️)~~[🖥️](#🖥️) |
 | 三國志14 with 威力加強版 | `0100CD4012DCA000` | `B067B077906C6208` ([✅](SaltySD/plugins/FPSLocker/patches/0100CD4012DCA000/B067B077906C6208.yaml), v10, 1.0.10) | ~~[🔐](#🔐)[⏱️](#⏱️)~~[🖥️](#🖥️) |
+| 삼국지14 with 파워업키트 | `01006C5012DCE000` | `C00AA2EBF01D3A48` (❌📌, v9, 1.0.10) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️) |
 | Romancing SaGa 2: Revenge of the Seven | `010045301B86C000` | `791D79EBD7A0115E` ([✅](SaltySD/plugins/FPSLocker/patches/010045301B86C000/791D79EBD7A0115E.yaml), v1, 1.0.1) <br> `1933FBAFE977FA75` ([✅](SaltySD/plugins/FPSLocker/patches/010045301B86C000/1933FBAFE977FA75.yaml), v2, 1.0.2) <br> `D7A32C718E9D6363` ([✅](SaltySD/plugins/FPSLocker/patches/010045301B86C000/D7A32C718E9D6363.yaml), v3, 1.1.0) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Rooftops & Alleys: The Parkour Game | `0100FC20214B2000` | `03CD4543EE8B0961` (◯, v5, 1.5) |  |
 | Roxy Raccoon's Pinball Panic | `0100E070196FE000` | `E1D2D5C27F045CA0` (◯, v0, 1.0.0) |  |

@@ -305,7 +305,7 @@ PATCH AVAILABILITY<br>
 | Dinkum | `0100A5A020D5E000` | `8B3609ECB49DBBED` ([✅](SaltySD/plugins/FPSLocker/patches/0100A5A020D5E000/8B3609ECB49DBBED.yaml), v3, 1.0.2.44) | ~~[📷](#📷)~~ |
 | Dino Ranch: Ride to the Rescue | `010038301ABDA000` | `DDF3A995F0EC84E1` (◯, v2, 1.0.4) |  |
 | Disco Elysium - The Final Cut | `01006C5015E84000` | `26BDCC17F782A7B1` (◯, v12, 1.0.12) |  |
-| Disney Dreamlight Valley | `0100D39012C1A000` | `4CD5D66F34BD11CC` (◯, v52, 1.20.2) |  |
+| Disney Dreamlight Valley | `0100D39012C1A000` | `BB81080BEAE77EA9` (◯, v54, 1.20.11) |  |
 | Disney Epic Mickey: Rebrushed | `01004D901AFDA000` | `D334BC060F1FA3AE` ([✅](SaltySD/plugins/FPSLocker/patches/01004D901AFDA000/D334BC060F1FA3AE.yaml), v4, 1.0.4) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | ディズニー エピックミッキー：Rebrushed | `0100DA201EBF8000` | `21F90AA03BED43F0` ([✅](SaltySD/plugins/FPSLocker/patches/0100DA201EBF8000/21F90AA03BED43F0.yaml), v2, 1.0.2) <br> `EE2CAB96FB6BEDA9` ([✅](SaltySD/plugins/FPSLocker/patches/0100DA201EBF8000/EE2CAB96FB6BEDA9.yaml), v3, 1.0.3) <br> `10844A7A20C5597E` ([✅](SaltySD/plugins/FPSLocker/patches/0100DA201EBF8000/10844A7A20C5597E.yaml), v4, 1.0.4) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Divinity: Original Sin 2 | `010027400CDC6000` | `4979B200D53BB282` ([✅](SaltySD/plugins/FPSLocker/patches/010027400CDC6000/4979B200D53BB282.yaml), v10, 1.0.10) | [⚔️](#⚔️)~~[📏](#📏)~~ |
@@ -592,6 +592,7 @@ PATCH AVAILABILITY<br>
 | Märchen Forest | `01001B2012D5E000` | `7A7C634CDAFE7D42` (◯, v7, 1.0.7) |  |
 | Master Detective Archives: RAIN CODE `US` | `0100149019460000` | `F4685ACC91FEDB12` ([✅](SaltySD/plugins/FPSLocker/patches/01004800197F0000/F4685ACC91FEDB12.yaml), v7, 1.4.0) | ~~[🔐](#🔐)[🔧](#🔧)~~ |
 | Master Detective Archives: RAIN CODE `GLOBAL` | `01004800197F0000` | `B9E42653FB44EF2B` ([✅](SaltySD/plugins/FPSLocker/patches/0100149019460000/B9E42653FB44EF2B.yaml), v7, 1.4.0) | ~~[🔐](#🔐)[🔧](#🔧)~~ |
+| 超探偵事件簿 レインコード | `0100F4401940A000` | `86DFF996CE04CC6A` (❌📌, v5, 1.4.0) | [🔐](#🔐)[🔧](#🔧) |
 | Masters of Anima | `0100CC7009196000` | `B1C8B55E8D400E57` (◯, v1, 1.0.1) |  |
 | Max: The Curse Of Brotherhood | `01001C9007614000` | `F99E70DF48B3DC49` (◯, v1, 1.0.1) |  |
 | MEGATON MUSASHI W: WIRED | `01003EB01C2F0000` | `0D28F064B3A5D030` ([✅](SaltySD/plugins/FPSLocker/patches/01003EB01C2F0000/0D28F064B3A5D030.yaml), v3, 3.0.3) <br> `4183AB952B599826` ([✅](SaltySD/plugins/FPSLocker/patches/01003EB01C2F0000/4183AB952B599826.yaml), v4, 3.1.0) <br> `F1E096F78DFB8263` ([✅](SaltySD/plugins/FPSLocker/patches/01003EB01C2F0000/F1E096F78DFB8263.yaml), v5, 3.1.1) <br> `452F9C150D1D17B7` ([✅](SaltySD/plugins/FPSLocker/patches/01003EB01C2F0000/452F9C150D1D17B7.yaml), v6, 3.1.2) <br> `FF46A0C56BAD0A32` ([✅](SaltySD/plugins/FPSLocker/patches/01003EB01C2F0000/FF46A0C56BAD0A32.yaml), v7, 3.1.3) <br> `8286C091117CAECF` ([✅](SaltySD/plugins/FPSLocker/patches/01003EB01C2F0000/8286C091117CAECF.yaml), v8, 3.2.0) <br> `1EC3E6373D7DA9A6` ([✅](SaltySD/plugins/FPSLocker/patches/01003EB01C2F0000/1EC3E6373D7DA9A6.yaml), v9, 3.2.2) <br> `D152798E91A87AE7` ([✅](SaltySD/plugins/FPSLocker/patches/01003EB01C2F0000/D152798E91A87AE7.yaml), v10, 3.2.3) | ~~[🛑](#🛑)~~ |
@@ -837,6 +838,7 @@ PATCH AVAILABILITY<br>
 | Sherlock Holmes and The<br>Hound of The Baskervilles | `010003D018708000` | `4A06EBBB5A2E4FE4` (❌📌, v2, 1.0.2) | [🔐](#🔐) |
 | Shin chan: Me and the Professor<br>on Summer Vacation<br>The Endless Seven-Day Journey | `0100ACC0185FC000` | `C167F81FB2171443` (◯, v2, 1.1.1) |  |
 | Shin chan: Shiro and the Coal Town | `0100A8B01E0C8000` | `2AD4407726EEAB86` (◯, v3, 1.0.3) |  |
+| - 짱구는 못 말려『탄광마을의 흰둥이』<br>- 蠟筆小新 煤炭鎮的小白 | `010049901D704000` | `B6ACB0F1227E5A35` (◯, v2, 1.0.2) |  |
 | Shin Megami Tensei III Nocturne | `01003B0012DC2000` | `F8098979DBC7F34E` (❌, v3, 1.0.3) | [⏱️](#⏱️)[🏃](#🏃)[🖥️](#🖥️) |
 | SHIN MEGAMI TENSEI V | `0100B870126CE000` | `019FBFE7738EA314` ([✅](SaltySD/plugins/FPSLocker/patches/0100B870126CE000/019FBFE7738EA314.yaml), v2, 1.0.2) | ~~[📏](#📏)~~ |
 | 真・女神転生Ⅴ | `01006BD0095F4000` | `019FBFE7738EA314` ([✅](SaltySD/plugins/FPSLocker/patches/01006BD0095F4000/019FBFE7738EA314.yaml), v2, 1.0.2) | ~~[📏](#📏)~~ |

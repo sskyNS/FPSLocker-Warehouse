@@ -370,6 +370,7 @@ PATCH AVAILABILITY<br>
 | F1 Manager 2024 | `010072E01CE0E000` | `85F60F87D19B5270` ([✅](SaltySD/plugins/FPSLocker/patches/010072E01CE0E000/85F60F87D19B5270.yaml), v11, 1.11) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Fading Afternoon | `01004E601E168000` | `B7D2694AEFBF2AFE` (❌, v3, 1.3.0) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️) |
 | Fairy Tail 2 | `0100B9801F872000` | `007EA5E2E2541C6F` ([✅](SaltySD/plugins/FPSLocker/patches/0100B9801F872000/007EA5E2E2541C6F.yaml), v8, 1.4.2) | ~~[🔐](#🔐)[📏](#📏)~~ |
+| Fallout Shelter | `010043500A17A000` | `196C9038A4445F4C` (◯, v2, 1.0.2) |  |
 | Family Feud | `010060200FC44000` | `45EDF909AE2A3A41` (◯, v2, 1.1) |  |
 | FANTASY LIFE i: The Girl Who Steals Time | `0100755017EE0000` | `A697413E1DA7851A` ([✅](SaltySD/plugins/FPSLocker/patches/0100755017EE0000/A697413E1DA7851A.yaml), v2, 1.1.0) <br> `66BC954F5323014C` ([✅](SaltySD/plugins/FPSLocker/patches/0100755017EE0000/66BC954F5323014C.yaml), v4, 1.2.1) <br> `9DBA6AA32721CAB9` ([✅](SaltySD/plugins/FPSLocker/patches/0100755017EE0000/9DBA6AA32721CAB9.yaml), v5, 1.3.0) <br> `546820C12D88850D` ([✅](SaltySD/plugins/FPSLocker/patches/0100755017EE0000/546820C12D88850D.yaml), v6, 1.3.3) <br> `061A7341077C0974` ([✅](SaltySD/plugins/FPSLocker/patches/0100755017EE0000/061A7341077C0974.yaml), v7, 1.4.0) <br> `74BCAC96835DB9AE` ([✅](SaltySD/plugins/FPSLocker/patches/0100755017EE0000/74BCAC96835DB9AE.yaml), v8, 1.5.0) | ~~[🔐](#🔐)[🔧](#🔧)~~ |
 | Farmagia | `01002C101E2C4000` | `32E79F7A83531FFC` (◯, v1, 1.0.1) |  |
@@ -1159,6 +1160,7 @@ PATCH AVAILABILITY<br>
 | 창세기전 \~회색의 잔영\~ | `0100276019E96000` | `EC983B9153629AC8` ([✅](SaltySD/plugins/FPSLocker/patches/0100276019E96000/EC983B9153629AC8.yaml), v1, 1.1.0) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | ドラゴンクエストヒーローズI・II | `0100CD3000BDC000` | `5C598E5025BF97BC` ([✅](SaltySD/plugins/FPSLocker/patches/0100CD3000BDC000/5C598E5025BF97BC.yaml), v3, 1.0.3) | ~~[🔐](#🔐)[⏱️](#⏱️)[⚔️](#⚔️)~~
 | エアコンフリクト：パシフィックキャリアー | `010020700C952000` | `E0875F171671C8F7` (❌, v0, 1.0.0) | [⚔️](#⚔️) |
+| 仮面ライダー クライマックススクランブル ジオウ | `0100BDC00A664000` | `1EAD461ABA0F154A` (❌📌, v3, 1.2.0) | [⏱️](#⏱️)[🖥️](#🖥️) |
 
 </details>
 

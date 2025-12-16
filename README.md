@@ -856,6 +856,7 @@ PATCH AVAILABILITY<br>
 | 光明之響 龍奏回音 | `0100D7700AF88000` | `F5AC009011277359` ([✅](SaltySD/plugins/FPSLocker/patches/0100D7700AF88000/F5AC009011277359.yaml), v0, 1.0.0) | ~~[⚔️](#⚔️)[🔐](#🔐)[👄](#👄)~~ |
 | Ship Graveyard Simulator | `010018C01B106000` | `63B72CD5F2A90020` ([✅](SaltySD/plugins/FPSLocker/patches/010018C01B106000/63B72CD5F2A90020.yaml), v0, 1.0.0) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | Ship of Fools | `010076901806C000` | `2C4700E500079C74` (◯, v5, 1.0.5) |  |
+| Shirone: the Dragon Girl | `010028F018206000` | `4074315114A7FCE2` (◯, v1, 1.0.6a) |  |
 | Sifu | `01007B5017A12000` | `4A5D86DA05A4E7BB` ([✅](SaltySD/plugins/FPSLocker/patches/01007B5017A12000/4A5D86DA05A4E7BB.yaml), v6, 0.1) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | SIGNALIS | `0100307018934000` | `C32A27E10515B7B8` (◯, v4, 1.4) |  |
 | SINNER: Sacrifice for Redemption | `0100B16009C10000` | `490D681909609015` ([✅](SaltySD/plugins/FPSLocker/patches/0100B16009C10000/490D681909609015.yaml), v3, 1.1.0319) | ~~[🔐](#🔐)~~ |

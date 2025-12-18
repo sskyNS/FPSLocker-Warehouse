@@ -1147,6 +1147,7 @@ PATCH AVAILABILITY<br>
 | 伊蘇VIII -丹娜的隕涕日- | `0100AAD00FBE0000` | `14556DE5C310D6D8` (◯, v0, 1.0.0) |  |
 | Ys IX: Monstrum Nox | `0100E390124D8000` | `4D33981B6DB6125A` (◯, v3, 1.0.3) |  |
 | Ys X: Nordics | `0100BAC01E57E000` | `E5816E16CC5D72A5` ([✅](SaltySD/plugins/FPSLocker/patches/0100BAC01E57E000/E5816E16CC5D72A5.yaml), v2, 1.0.2) <br> `C55F6B8AEFA54324` ([✅](SaltySD/plugins/FPSLocker/patches/0100BAC01E57E000/C55F6B8AEFA54324.yaml), v3, 1.0.3) | ~~[📏](#📏)[⏱️](#⏱️)[🖥️](#🖥️)~~ |
+| Zombie Driver | `01006CF00DA8C000` | `47DF569AC2416800` (◯, v0, 1.0.0) |  |
 | 伊蘇X -北境歷險- | `0100A0C01BED8000` | `7E06539B5874B9C4` ([✅](SaltySD/plugins/FPSLocker/patches/0100A0C01BED8000/7E06539B5874B9C4.yaml), v5, 1.0.5) | ~~[📏](#📏)[⏱️](#⏱️)[🖥️](#🖥️)~~ |
 | イースX -NORDICS- | `0100CC401A16C000` | `ACF8E5931E38EAA0` ([✅](SaltySD/plugins/FPSLocker/patches/0100CC401A16C000/ACF8E5931E38EAA0.yaml), v4, 1.0.4) | ~~[📏](#📏)[⏱️](#⏱️)[🖥️](#🖥️)~~ |
 | 이스 X -노딕스- 무삭제판 | `0100F8701C182000` | `D5C2734C0F14D43D` (❌📌, v5, 1.0.5) | [📏](#📏)[⏱️](#⏱️)[🖥️](#🖥️) |

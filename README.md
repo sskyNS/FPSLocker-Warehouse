@@ -622,6 +622,7 @@ PATCH AVAILABILITY<br>
 | 모모타로전철 ～쇼와 헤이세이 레이와에서도 국룰！～ Korea Edition | `010040A0209DC000` | `A4A3B5A20B03B2A7` ([✅](SaltySD/plugins/FPSLocker/patches/010040A0209DC000/A4A3B5A20B03B2A7.yaml), v1, 1.0.1) | ~~[🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)[⚔️](#⚔️)[🔢](#🔢)~~ |
 | MONARK | `0100E4A01548C000` | `85EB6295023DD394` (◯, v1, 1.0.1) |  |
 | MONOPOLY | `01002C201BC40000` | `1AAA3C7D76026D29` (◯, v5, 1.5) |  |
+| Monopoly Madness | `01005FF013DC2000` | `78B532D348D69BD5` (◯, v5, 1.0.5) |  |
 | Monster Hunter Generations Ultimate | `0100770008DD8000` | `FB08F1D20FD1204F` ([✅](SaltySD/plugins/FPSLocker/patches/0100770008DD8000/FB08F1D20FD1204F.yaml), v4, 1.4.0) | ~~[🔐](#🔐)~~ |
 | モンスターハンターダブルクロス | `0100C3800049C000` | `9D4C86E6EF74504A` ([✅](SaltySD/plugins/FPSLocker/patches/0100C3800049C000/9D4C86E6EF74504A.yaml), v6, 1.5.1) | ~~[🔐](#🔐)~~ |
 | Monster Hunter Rise `GLOBAL` | `0100B04011742000` | `C9A3DD7702075ECD` ([✅](SaltySD/plugins/FPSLocker/patches/0100B04011742000/C9A3DD7702075ECD.yaml), v34, 16.0.2) | ~~[🔐](#🔐)~~ |

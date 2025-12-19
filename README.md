@@ -165,6 +165,7 @@ PATCH AVAILABILITY<br>
 | Batman: Arkham Knight | `0100ACD0163D0000` | `C0C37AE212170CAD` (◯, v4, 1.0.4) |  |
 | Batman: The Enemy Within | `0100E6300AA3A000` | `AAC6FB02E03062EF` ([✅](SaltySD/plugins/FPSLocker/patches/0100E6300AA3A000/AAC6FB02E03062EF.yaml), v1, 1.0.3) | ~~[⚔️](#⚔️)~~ |
 | Batora: Lost Haven | `0100A93016BF4000` | `770A07C35E631CB2` ([✅](SaltySD/plugins/FPSLocker/patches/0100A93016BF4000/770A07C35E631CB2.yaml), v1, 1.0.1) | ~~[🔐](#🔐)[📏](#📏)~~ |
+| Battle Chasers: Nightwar | `0100551001D88000` | `D0222F29AB9BB64C` (◯, v2, 1.0.2) |  |
 | Bayonetta Origins: Cereza and the Lost Demon | `0100CF5010FEC000` | `A1CE2940D813ACAB` ([✅](SaltySD/plugins/FPSLocker/patches/0100CF5010FEC000/A1CE2940D813ACAB.yaml), v0, 1.0.0) | ~~[⏱️](#⏱️)~~ |
 | Becastled | `010066C024AA8000` | `FBDD7ABB7B1DB6A9` ([✅](SaltySD/plugins/FPSLocker/patches/010066C024AA8000/FBDD7ABB7B1DB6A9.yaml), v3, 1.3) | ~~[📏](#📏)~~ |
 | Beholder 2 | `01000DF00EBBA000` | `5D3FE9C0FAA44B4C` ([✅](SaltySD/plugins/FPSLocker/patches/01000DF00EBBA000/5D3FE9C0FAA44B4C.yaml), v3, 1.0.3) | ~~[📷](#📷)~~ |
@@ -303,6 +304,7 @@ PATCH AVAILABILITY<br>
 | Destiny Connect: Tick-Tock Travelers | `010069500DD86000` | `5AD84EFD9D28FDDE` ([✅](SaltySD/plugins/FPSLocker/patches/010069500DD86000/5AD84EFD9D28FDDE.yaml), v0, 1.0.0) | ~~[📏](#📏)~~ |
 | Destroy All Humans! | `01009E701356A000` | `72E8F20EBBDBA296` ([✅](SaltySD/plugins/FPSLocker/patches/01009E701356A000/72E8F20EBBDBA296.yaml), v1, 1.0.1) | ~~[📏](#📏)~~ |
 | Detective - Stella Porta Case | `01005AB01DAD0000` | `50F47EC19A33A73E` ([✅](SaltySD/plugins/FPSLocker/patches/01005AB01DAD0000/50F47EC19A33A73E.yaml), v0, 1.0.0) | ~~[📏](#📏)[⏱️](#⏱️)[🔧](#🔧)~~ |
+| Detective - Rainy Night | `0100C47025F3A000` | `553262E59A96741B` ([✅](SaltySD/plugins/FPSLocker/patches/0100C47025F3A000/553262E59A96741B.yaml), v1, 1.0.1) | ~~[📏](#📏)[⏱️](#⏱️)[🔧](#🔧)~~ |
 | Detective Pikachu Returns | `010007500F27C000` | `A2A5ABEF988ABAA2` (◯, v0, 1.0.0) |  |
 | Diablo II: Resurrected | `0100726014352000` | `C5E0C2DB39A8D8A3` (◯, v28, 1.0.28.0) |  |
 | Dinkum | `0100A5A020D5E000` | `8B3609ECB49DBBED` ([✅](SaltySD/plugins/FPSLocker/patches/0100A5A020D5E000/8B3609ECB49DBBED.yaml), v3, 1.0.2.44) | ~~[📷](#📷)~~ |
@@ -372,7 +374,8 @@ PATCH AVAILABILITY<br>
 | Expeditions: A Mudrunner Game | `01002C101C1AA000` | `9ACB108D8DC59245` ([✅](SaltySD/plugins/FPSLocker/patches/01002C101C1AA000/9ACB108D8DC59245.yaml), v18, 1.18.0.0) <br> `0F7616E6F5EE08CE` ([✅](SaltySD/plugins/FPSLocker/patches/01002C101C1AA000/0F7616E6F5EE08CE.yaml), v19, 1.19.0.0) | ~~[📏](#📏)~~ |
 | F.I.S.T.: Forged in Shadow Torch | `01009F8017F48000` | `69EE5F71F187EAA9` ([✅](SaltySD/plugins/FPSLocker/patches/01009F8017F48000/69EE5F71F187EAA9.yaml), v4, 1.0.4) | ~~[📏](#📏)~~ |
 | F1 Manager 2024 | `010072E01CE0E000` | `85F60F87D19B5270` ([✅](SaltySD/plugins/FPSLocker/patches/010072E01CE0E000/85F60F87D19B5270.yaml), v11, 1.11) | ~~[📏](#📏)[🔧](#🔧)~~ |
-| Fading Afternoon | `01004E601E168000` | `B7D2694AEFBF2AFE` (❌, v3, 1.3.0) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️) |
+| Fading Afternoon | `01004E601E168000` | `B7D2694AEFBF2AFE` (❌, v3, 1.3.0) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️) 
+| Fabledom | `0100B6001E6D6000` | `6895E4F3E01808C4` ([✅](SaltySD/plugins/FPSLocker/patches/0100B6001E6D6000/6895E4F3E01808C4.yaml), v7, 1.0.7) | ~~[📏](#📏)[🏃](#🏃)~~ |
 | Fairy Tail 2 | `0100B9801F872000` | `007EA5E2E2541C6F` ([✅](SaltySD/plugins/FPSLocker/patches/0100B9801F872000/007EA5E2E2541C6F.yaml), v8, 1.4.2) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | Fallout Shelter | `010043500A17A000` | `196C9038A4445F4C` (◯, v2, 1.0.2) |  |
 | Family Feud | `010060200FC44000` | `45EDF909AE2A3A41` (◯, v2, 1.1) |  |
@@ -411,6 +414,7 @@ PATCH AVAILABILITY<br>
 | Five Nights at Freddy's: Help Wanted 2 | `010032F01F7CC000` | `F7EB23F0D8E5A933` ([✅](SaltySD/plugins/FPSLocker/patches/010032F01F7CC000/F7EB23F0D8E5A933.yaml), v1, 0.2) <br> `DE7B50B9FEF89856` ([✅](SaltySD/plugins/FPSLocker/patches/010032F01F7CC000/DE7B50B9FEF89856.yaml), v2, 0.3) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Five Nights at Freddy's: Security Breach | `01009060193C4000` | `B880EEE5B8946289` ([✅](SaltySD/plugins/FPSLocker/patches/01009060193C4000/B880EEE5B8946289.yaml), v4, 0.5) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Flooded | `010022201D254000` | `AF274CB758733A56` (❌, v1, 1.0.1) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️) |
+| For The King | `010069400B6BE000` | `5105F83D319C8143` (◯, v4, 1.0.4) |  |
 | Forgive Me Father | `0100A2A01A026000` | `008F995D1A63B383` ([✅](SaltySD/plugins/FPSLocker/patches/0100A2A01A026000/008F995D1A63B383.yaml), v2, 1.5.4.3) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Formula Legends | `0100690020FBE000` | `CC93EA5C0A2F96FE` ([✅](SaltySD/plugins/FPSLocker/patches/0100690020FBE000/CC93EA5C0A2F96FE.yaml), v3, 1.0.3) <br> `8FDB10262446CB3D` ([✅](SaltySD/plugins/FPSLocker/patches/0100690020FBE000/8FDB10262446CB3D.yaml), v4, 1.0.4) <br> `2735E564A9BD3DA3` ([✅](SaltySD/plugins/FPSLocker/patches/0100690020FBE000/2735E564A9BD3DA3.yaml), v5, 1.0.5) <br> `84C1B1AE29550FC8` ([✅](SaltySD/plugins/FPSLocker/patches/0100690020FBE000/84C1B1AE29550FC8.yaml), v6, 1.0.6) <br> `349E9751D50B3B88` ([✅](SaltySD/plugins/FPSLocker/patches/0100690020FBE000/349E9751D50B3B88.yaml), v7, 1.0.7) <br> `C26EE97D7ECDE83B` ([✅](SaltySD/plugins/FPSLocker/patches/0100690020FBE000/C26EE97D7ECDE83B.yaml), v8, 1.0.8) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
 | Forrader Hero | `01007C801D5B8000` | `D62574E9298D0AAE` (◯, v0, 1.0) |  |

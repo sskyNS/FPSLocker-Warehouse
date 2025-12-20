@@ -899,7 +899,7 @@ PATCH AVAILABILITY<br>
 | SONIC FORCES DIGITAL BONUS EDITION | `0100111004460000` | `6D9EA94F8AAC00A8` ([✅](SaltySD/plugins/FPSLocker/patches/0100111004460000/6D9EA94F8AAC00A8.yaml), v1, 1.1.0) | ~~[🔐](#🔐)[⚔️](#⚔️)~~[🔢](#🔢) |
 | Sonic Frontiers | `01004AD014BF0000` | `D7A05D106FF46FC0` ([✅](SaltySD/plugins/FPSLocker/patches/01004AD014BF0000/D7A05D106FF46FC0.yaml), v7, 1.4.1) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | SONIC GENERATIONS | `01005EA01C0FC001` | `D91C67509C6AED8D` ([✅](SaltySD/plugins/FPSLocker/patches/01005EA01C0FC001/D91C67509C6AED8D.yaml), v2, 1.1.0) | ~~[🔐](#🔐)~~ |
-| Sonic Racing: CrossWorlds | `01006E001823C000` | `9788857E1FFCDF03` (❌, v3, 1.20) | [🔐](#🔐)[⏱️](#⏱️)[🏃](#🏃) |
+| Sonic Racing: CrossWorlds | `01006E001823C000` | `05A4A7225F20EBC0` (❌, v5, 1.22) | [🔐](#🔐)[⏱️](#⏱️)[🏃](#🏃) |
 | Sorry We're Closed | `010024E01DC6A000` | `AA9BF85240409E60` (◯, v6, 1.0.7) |  |
 | Sorry We're Closed `Asia` | `01002F9020D2C000` | `AA9BF85240409E60` (◯, v3, 1.0.7) |  |
 | Soul Stalker | `0100F0401C2BC000` | `38730D109E48050C` ([✅](SaltySD/plugins/FPSLocker/patches/0100F0401C2BC000/38730D109E48050C.yaml), v2, 1.0.2) | ~~[📷](#📷)~~ |

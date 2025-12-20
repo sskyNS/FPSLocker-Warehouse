@@ -240,6 +240,7 @@ PATCH AVAILABILITY<br>
 | Cobra Kai 2: Dojos Rising | `0100BD9015B54000` | `BAD8504B110A21AE` (◯, v4, 2.20.8) |  |
 | Cocoon | `01002E700C366000` | `5D8B61D234DCE809` (◯, v3, 1.0.3) |  |
 | Company of Heroes Collection | `0100ABD0156F8000` | `F18BDC1CD8947ACA` (◯, v1, 1.8_83956) |  |
+| Commandos 3 | `010088B01572E000` | `E5AD28BC6E790692` ([✅](SaltySD/plugins/FPSLocker/patches/010088B01572E000/E5AD28BC6E790692.yaml), v3, 1.00.053) | ~~[🔐](#🔐)~~ |
 | Combat Forces | `0100134025F8E000` | `81C9C793B5370E9B` ([✅](SaltySD/plugins/FPSLocker/patches/0100134025F8E000/81C9C793B5370E9B.yaml), v0, 1.0.0) | ~~[🔧](#🔧)~~ |
 | Contra: Operation Galuga | `0100CF401A98E000` | `5ECFB8F85105FE3C` ([✅](SaltySD/plugins/FPSLocker/patches/0100CF401A98E000/5ECFB8F85105FE3C.yaml), v2, 1.0.882291) | ~~[📏](#📏)~~ |
 | CONTRA: ROGUE CORPS | `0100F2600D710000` | `4CCD2F6D331DD104` ([✅](SaltySD/plugins/FPSLocker/patches/0100F2600D710000/4CCD2F6D331DD104.yaml), v5, 1.3.0) | ~~[📏](#📏)[⏱️](#⏱️)[🖥️](#🖥️)~~ |
@@ -1173,7 +1174,7 @@ PATCH AVAILABILITY<br>
 | 英雄伝説 閃の軌跡II<br>改 -The Erebonian Civil War- | `0100906014C3C000` | `EAB1DC1D53E319F9` ([✅](SaltySD/plugins/FPSLocker/patches/0100906014C3C000/EAB1DC1D53E319F9.yaml), v5, 1.0.5) | ~~[🔐](#🔐)~~ |
 | ドラゴンクエストX<br>目覚めし五つの種族　オフライン | `0100E2E0152E4000` | `13F322A6161F787C` ([✅](SaltySD/plugins/FPSLocker/patches/0100E2E0152E4000/13F322A6161F787C.yaml), v4, 2.0.1) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | 電車でＧＯ！！ はしろう山手線 | `0100BC501355A000` | `7C9F89C3743F202F` ([✅](SaltySD/plugins/FPSLocker/patches/0100BC501355A000/7C9F89C3743F202F.yaml), v3, 1.1.2) | ~~[📏](#📏)[🔧](#🔧)~~ |
-| 牧場物語 Let's！風のグランドバザール | `0100DAE01E4C8000` | `2D532E9C1B773907` (◯, v7, 1.2.0) |  |
+| 牧場物語 Let's！風のグランドバザール | `0100DAE01E4C8000` | `14C62FBD356EB81B` (◯, v8, 1.3.0) |  |
 | 창세기전 \~회색의 잔영\~ | `0100276019E96000` | `EC983B9153629AC8` ([✅](SaltySD/plugins/FPSLocker/patches/0100276019E96000/EC983B9153629AC8.yaml), v1, 1.1.0) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | ドラゴンクエストヒーローズI・II | `0100CD3000BDC000` | `5C598E5025BF97BC` ([✅](SaltySD/plugins/FPSLocker/patches/0100CD3000BDC000/5C598E5025BF97BC.yaml), v3, 1.0.3) | ~~[🔐](#🔐)[⏱️](#⏱️)[⚔️](#⚔️)~~
 | エアコンフリクト：パシフィックキャリアー | `010020700C952000` | `E0875F171671C8F7` (❌, v0, 1.0.0) | [⚔️](#⚔️) |

@@ -163,7 +163,7 @@ PATCH AVAILABILITY<br>
 | Batman - The Telltale Series | `0100011005D92000` | `A3A998AF3252D110` ([✅](SaltySD/plugins/FPSLocker/patches/0100011005D92000/A3A998AF3252D110.yaml), v3, 1.0.4) | ~~[⚔️](#⚔️)~~ |
 | Batman: Arkham Asylum | `0100E870163CA000` | `621EE66A6743D750` ([✅](SaltySD/plugins/FPSLocker/patches/0100E870163CA000/621EE66A6743D750.yaml), v1, 1.0.1) | ~~[🔐](#🔐)~~ |
 | Batman: Arkham City | `01003F00163CE000` | `8983C5A34B178E5C` (◯, v2, 1.0.2) |  |
-| Batman: Arkham Knight | `0100ACD0163D0000` | `C0C37AE212170CAD` (◯, v4, 1.0.4) |  |
+| Batman: Arkham Knight | `0100ACD0163D0000` | `FEAE83DC9E9FB34C` (◯, v5, 1.0.5) |  |
 | Batman: The Enemy Within | `0100E6300AA3A000` | `AAC6FB02E03062EF` ([✅](SaltySD/plugins/FPSLocker/patches/0100E6300AA3A000/AAC6FB02E03062EF.yaml), v1, 1.0.3) | ~~[⚔️](#⚔️)~~ |
 | Batora: Lost Haven | `0100A93016BF4000` | `770A07C35E631CB2` ([✅](SaltySD/plugins/FPSLocker/patches/0100A93016BF4000/770A07C35E631CB2.yaml), v1, 1.0.1) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | Battle Chasers: Nightwar | `0100551001D88000` | `D0222F29AB9BB64C` (◯, v2, 1.0.2) |  |

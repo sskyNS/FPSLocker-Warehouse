@@ -414,6 +414,7 @@ PATCH AVAILABILITY<br>
 | Fishing: North Atlantic | `0100A55019C38000` | `B9DB6040F70BE58F` ([✅](SaltySD/plugins/FPSLocker/patches/0100A55019C38000/B9DB6040F70BE58F.yaml), v1, 1.1) | ~~[📏](#📏)~~ |
 | Five Nights at Freddy's: Help Wanted | `0100F7901118C000` | `668FE05AA1AAC5A1` ([✅](SaltySD/plugins/FPSLocker/patches/0100F7901118C000/668FE05AA1AAC5A1.yaml), v4, 1.25) | ~~[🔧](#🔧)~~ |
 | Five Nights at Freddy's: Help Wanted 2 | `010032F01F7CC000` | `F7EB23F0D8E5A933` ([✅](SaltySD/plugins/FPSLocker/patches/010032F01F7CC000/F7EB23F0D8E5A933.yaml), v1, 0.2) <br> `DE7B50B9FEF89856` ([✅](SaltySD/plugins/FPSLocker/patches/010032F01F7CC000/DE7B50B9FEF89856.yaml), v2, 0.3) | ~~[📏](#📏)[🔧](#🔧)~~ |
+| Five Nights at Freddy's: Secret of the Mimic | `01000D60248D6000` | `196339C0BADE07C3` ([✅](SaltySD/plugins/FPSLocker/patches/01000D60248D6000/196339C0BADE07C3.yaml), v0, 1.0.0) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Five Nights at Freddy's: Security Breach | `01009060193C4000` | `B880EEE5B8946289` ([✅](SaltySD/plugins/FPSLocker/patches/01009060193C4000/B880EEE5B8946289.yaml), v4, 0.5) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Flooded | `010022201D254000` | `AF274CB758733A56` (❌, v1, 1.0.1) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️) |
 | For The King | `010069400B6BE000` | `5105F83D319C8143` (◯, v4, 1.0.4) |  |
@@ -482,6 +483,7 @@ PATCH AVAILABILITY<br>
 | HARVESTELLA | `0100521017B2A000` | `249EAB9BF046C5EA` ([✅](SaltySD/plugins/FPSLocker/patches/0100521017B2A000/249EAB9BF046C5EA.yaml), v2, 1.0.2) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | Hazel Sky | `0100A8A013AB2000` | `1EFB6879CFAD7DD3` ([✅](SaltySD/plugins/FPSLocker/patches/0100A8A013AB2000/1EFB6879CFAD7DD3.yaml), v7, 1.0.10f) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
 | HEAVEN SEEKER ――The Savior of This Cruel World | `0100EE00205BA000` | `E7011BF08747297B` ([✅](SaltySD/plugins/FPSLocker/patches/0100EE00205BA000/E7011BF08747297B.yaml), v1, 1.0.4.126) <br> `F2D03CFFB8DE5E4C` ([✅](SaltySD/plugins/FPSLocker/patches/0100EE00205BA000/F2D03CFFB8DE5E4C.yaml), v2, 1.0.4.127) <br> `21B3E4EA75F16551` ([✅](SaltySD/plugins/FPSLocker/patches/0100EE00205BA000/21B3E4EA75F16551.yaml), v3, 1.0.5.130) <br> `AA3EDDE660D630AD` ([✅](SaltySD/plugins/FPSLocker/patches/0100EE00205BA000/AA3EDDE660D630AD.yaml), v4, 1.0.5.134) <br> `135595BF76F46B1B` ([✅](SaltySD/plugins/FPSLocker/patches/0100EE00205BA000/135595BF76F46B1B.yaml), v5, 1.2.0.139) | ~~[🛑](#🛑)~~ |
+| Heavenly Bodies | `01004CA01B77E000` | `FE85668E14D7027C` (◯, v0, 00) |  |
 | Hellblade: Senua's Sacrifice | `010044500CF8E000` | `9B3DDF2FB9100E51` ([✅](SaltySD/plugins/FPSLocker/patches/010044500CF8E000/9B3DDF2FB9100E51.yaml), v1, 1.1.0) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | Hello Kitty Island Adventure | `010027901C89C000` | `B5DF7052EB2ED3DE` (◯, v9, 2.11.0) |  |
 | Hellpoint | `010024600C794000` | `3776E7BBC7C01E43` ([✅](SaltySD/plugins/FPSLocker/patches/010024600C794000/3776E7BBC7C01E43.yaml), v3, 1.0.2.0) | ~~[📏](#📏)~~ |

@@ -175,7 +175,7 @@ PATCH AVAILABILITY<br>
 | Bendy and the Dark Revival | `0100207021C3C000` | `2C2D599E55912C6C` ([✅](SaltySD/plugins/FPSLocker/patches/0100207021C3C000/2C2D599E55912C6C.yaml), v1, 1.6.3s) | ~~[📏](#📏)[📷](#📷)~~ |
 | Bendy and the Ink Machine | `0100D4C00C6C0000` | `91B6BD011F0C2C46` (◯, v2, 1.6.0.0) |  |
 | BEYBLADE X EVOBATTLE | `01009F002286E000` | `DF9D9CE09ACC1810` (◯, v1, 1.0.1) |  |
-| ベイブレードエックス エボバトル | `0100D9702286C000` | `2915603896022300` (◯, v3, 1.0.3) |  |
+| ベイブレードエックス エボバトル | `0100D9702286C000` | `6D2E2E43FA90DFAB` (◯, v4, 1.0.4) |  |
 | BEYBLADE X XONE `EU/US` | `0100E2301FB1E000` | `7CDECA46F6E69ADF` (◯, v11, 1.0.12) |  |
 | BEYBLADE X XONE `ASIA` | `0100FC90205FE000` | `AE69E1BB81CD6FDE` (◯, v9, 1.0.10) |  |
 | ベイブレードエックス XONE | `0100E0901E2AA000` | `BEB69A37E9B16A56` (◯, v12, 1.0.12) |  |
@@ -485,7 +485,7 @@ PATCH AVAILABILITY<br>
 | HEAVEN SEEKER ――The Savior of This Cruel World | `0100EE00205BA000` | `E7011BF08747297B` ([✅](SaltySD/plugins/FPSLocker/patches/0100EE00205BA000/E7011BF08747297B.yaml), v1, 1.0.4.126) <br> `F2D03CFFB8DE5E4C` ([✅](SaltySD/plugins/FPSLocker/patches/0100EE00205BA000/F2D03CFFB8DE5E4C.yaml), v2, 1.0.4.127) <br> `21B3E4EA75F16551` ([✅](SaltySD/plugins/FPSLocker/patches/0100EE00205BA000/21B3E4EA75F16551.yaml), v3, 1.0.5.130) <br> `AA3EDDE660D630AD` ([✅](SaltySD/plugins/FPSLocker/patches/0100EE00205BA000/AA3EDDE660D630AD.yaml), v4, 1.0.5.134) <br> `135595BF76F46B1B` ([✅](SaltySD/plugins/FPSLocker/patches/0100EE00205BA000/135595BF76F46B1B.yaml), v5, 1.2.0.139) | ~~[🛑](#🛑)~~ |
 | Heavenly Bodies | `01004CA01B77E000` | `FE85668E14D7027C` (◯, v0, 00) |  |
 | Hellblade: Senua's Sacrifice | `010044500CF8E000` | `9B3DDF2FB9100E51` ([✅](SaltySD/plugins/FPSLocker/patches/010044500CF8E000/9B3DDF2FB9100E51.yaml), v1, 1.1.0) | ~~[🔐](#🔐)[📏](#📏)~~ |
-| Hello Kitty Island Adventure | `010027901C89C000` | `B5DF7052EB2ED3DE` (◯, v9, 2.11.0) |  |
+| Hello Kitty Island Adventure | `010027901C89C000` | `605AF52D69CF49B7` (◯, v10, 2.11.1) |  |
 | Hellpoint | `010024600C794000` | `3776E7BBC7C01E43` ([✅](SaltySD/plugins/FPSLocker/patches/010024600C794000/3776E7BBC7C01E43.yaml), v3, 1.0.2.0) | ~~[📏](#📏)~~ |
 | Hello Neighbor 2 | `0100EAF01527E000` | `AB75C103EEC0D5FC` ([✅](SaltySD/plugins/FPSLocker/patches/0100EAF01527E000/AB75C103EEC0D5FC.yaml), v1, 1.1) | ~~[🔐](#🔐)[🔧](#🔧)~~ |
 | Hero's Hour | `010005E01E5E6000` | `8B0C5F41A0CCDFD9` (❌, v2, 2.5.3) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️) |

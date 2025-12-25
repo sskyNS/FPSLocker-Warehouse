@@ -750,6 +750,7 @@ PATCH AVAILABILITY<br>
 | Paradise Killer | `01007FB010DC8000` | `D3744AF2C376CDC4` ([✅](SaltySD/plugins/FPSLocker/patches/01007FB010DC8000/D3744AF2C376CDC4.yaml), v7, 1.2.1) | ~~[📏](#📏)~~ |
 | パラダイスキラー | `0100EC5013ED2000` | `D3744AF2C376CDC4` ([✅](SaltySD/plugins/FPSLocker/patches/0100EC5013ED2000/D3744AF2C376CDC4.yaml), v3, 1.2.1) | ~~[📏](#📏)~~ |
 | Paradise Lost | `010077A012A5C000` | `F5ECE696120B65B3` ([✅](SaltySD/plugins/FPSLocker/patches/010077A012A5C000/F5ECE696120B65B3.yaml), v0, 1.0.0) | ~~[📏](#📏)~~ |
+| PARANORMASIGHT: The Seven Mysteries of Honjo | `01006E5019C5A000` | `BF6466FEA06BEA4E` (◯, v2, 1.2) |  |
 | Pascal's Wager | `01009B9017D8E000` | `3F9A7276F039B226` (◯, v2, 2.0.0) |  | 
 | Passpartout 2: The Lost Artist | `010094E01AA20000` | `ED2F8EEA20A7943D` (◯, v3, 1.1.1) |  |
 | パスパルトゥー２：あるアーティストのキセキ | `01002A601ACD4000` | `ED2F8EEA20A7943D` (◯, v3, 1.1.1) |  |

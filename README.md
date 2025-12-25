@@ -630,8 +630,8 @@ PATCH AVAILABILITY<br>
 | Mercenaries Saga Chronicles `CHN` | `0100D5000B988000` | `C97E3DEC93B2E447` (◯, v0, 1.0.1) |  |
 | マーセナリーズサーガ クロニクルズ | `01001C40079BC000` | `B657840C3D2D554E` (◯, v1, 1.0.1) |  |
 | Mercenaries Wings | `010094500C216000` | `FEA1E2AF77833E40` (◯, v0, 1.0.1) |  |
-| Metal Gear Solid 2: Sons of Liberty | `0100A4301AA0C000` | `03C2232966780A16` (❌, v9, 2.0.0) | [⚔️](#⚔️)[⏱️](#⏱️)[🖥️](#🖥️) |
-| Metal Gear Solid 2: Sons of Liberty `JPN` | `0100EE8019534000` | `03C2232966780A16` (❌, v7, 2.0.0) | [⚔️](#⚔️)[⏱️](#⏱️)[🖥️](#🖥️) |
+| Metal Gear Solid 2: Sons of Liberty | `0100A4301AA0C001` | `818EA1592F5B931A` (❌, v10, 2.0.1) | [⚔️](#⚔️)[⏱️](#⏱️)[🖥️](#🖥️) |
+| Metal Gear Solid 2: Sons of Liberty `JPN` | `0100EE8019534001` | `818EA1592F5B931A` (❌, v8, 2.0.1) | [⚔️](#⚔️)[⏱️](#⏱️)[🖥️](#🖥️) |
 | Metal Gear Solid 3: Snake Eater | `010047F01AA10001` | `B108C2314431F54C` (❌, v11, 2.0.1) | [⚔️](#⚔️)[⏱️](#⏱️)[🖥️](#🖥️)[🔢](#🔢) |
 | Metal Gear Solid 3: Snake Eater `JPN` | `0100099019536001` | `B108C2314431F54C` (❌, v8, 2.0.1) | [⚔️](#⚔️)[⏱️](#⏱️)[🖥️](#🖥️)[🔢](#🔢) |
 | Metro 2033 Redux | `0100D4900E82C000` | `85C362CC9790F0ED` ([✅](SaltySD/plugins/FPSLocker/patches/0100D4900E82C000/85C362CC9790F0ED.yaml), v0, 1.0.0) | ~~[📏](#📏)~~ |

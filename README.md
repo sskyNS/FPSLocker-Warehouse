@@ -547,6 +547,7 @@ PATCH AVAILABILITY<br>
 | Kao the Kangaroo `GLOBAL` | `0100956016464000` | `F9C83728910E28A4` ([✅](SaltySD/plugins/FPSLocker/patches/0100956016464000/F9C83728910E28A4.yaml), v5, 1.5) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Kao the Kangaroo `US` | `010078C01769A000` | `7BA282E94D34C620` ([✅](SaltySD/plugins/FPSLocker/patches/010078C01769A000/7BA282E94D34C620.yaml), v5, 1.5) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Katamari Damacy REROLL | `0100D7000C2C6000` | `B528B17AD9C71F41` (❌, v2, 1.2) | [⏱️](#⏱️) |
+| Kawaii Slime Arena | `01001210199E8000` | `4F02C24688DB725C` (◯, v0, 1.0.0) |  |
 | Kentum | `01008F0022CD2000` | `BC18BFC4C64571A9` (◯, v1, 1.0.1) |  |
 | KIBORG | `0100AFE01EC6C000` | `635E7DB24F2BCD32` ([✅](SaltySD/plugins/FPSLocker/patches/0100AFE01EC6C000/635E7DB24F2BCD32.yaml), v0, 1.0) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Kiki | `0100E2D01F290000` | `722D0E06169C2458` (◯, v0, 1.0.0) |  |

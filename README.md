@@ -1072,7 +1072,7 @@ PATCH AVAILABILITY<br>
 | Thirsty Suitors | `0100982019374000` | `9DD9149968A0B8D3` (❌, v0, NS27619.127559) | [📏](#📏) |
 | Tiebreak+ | `010008301AA96000` | `2A5244CCB17B44AC` ([✅](SaltySD/plugins/FPSLocker/patches/010008301AA96000/2A5244CCB17B44AC.yaml), v1, 1.1.0) <br> `5BCA5C20C8F8A9B4` ([✅](SaltySD/plugins/FPSLocker/patches/010008301AA96000/5BCA5C20C8F8A9B4.yaml), v2, 1.2.0) <br> `88CC45A195E0BDA8` ([✅](SaltySD/plugins/FPSLocker/patches/010008301AA96000/88CC45A195E0BDA8.yaml), v3, 1.3.0) <br> `612E3D607D2A13BB` ([✅](SaltySD/plugins/FPSLocker/patches/010008301AA96000/612E3D607D2A13BB.yaml), v4, 1.4.0) | ~~[⚔️](#⚔️)[📏](#📏)~~ |
 | TinTin Reporter - Cigars of the Pharaoh | `0100E9001A94C000` | `57B6B2062EC8C38A` ([✅](SaltySD/plugins/FPSLocker/patches/0100E9001A94C000/57B6B2062EC8C38A.yaml), v3, 1.3.0) <br> `ACBD89C999804FD2` ([✅](SaltySD/plugins/FPSLocker/patches/0100E9001A94C000/ACBD89C999804FD2.yaml), v5, 1.4.1) | ~~[📏](#📏)[🔧](#🔧)~~ |
-| Tiny Bookshop | `0100F7A023F14000` | `0097C1A5DDBB5FD4` (◯, v3, 1.0.3) |  |
+| Tiny Bookshop | `0100F7A023F14000` | `0097C1A5DDBB5FD4` (◯, v4, 1.0.4) |  |
 | Tiny Terry's Turbo Trip | `01002B202075A000` | `BDCCA3BAAC2D40DE` (◯, v4, 1.3.1) |  |
 | Tiny Troopers: Global Ops | `0100347013E4C000` | `63F1A8874A936747` (◯, v2, 1.0.0.2) |  |
 | Tinykin | `0100A73016576000` | `4E2AA28721AFF2C1` ([✅](SaltySD/plugins/FPSLocker/patches/0100A73016576000/4E2AA28721AFF2C1.yaml), v4, 1.1.1) | ~~[📏](#📏)~~ |
@@ -1080,7 +1080,7 @@ PATCH AVAILABILITY<br>
 | Tomb Raider: Definitive Edition | `0100092021C80000` | `2A4A71E176DAA356` ([✅](SaltySD/plugins/FPSLocker/patches/0100092021C80000/2A4A71E176DAA356.yaml), v1, 1.0.1) | ~~[📏](#📏)~~ |
 | Tony Hawk's Pro Skater 1 + 2 | `0100CC00102B4000` | `8AFCBE6A930CD42E` ([✅](SaltySD/plugins/FPSLocker/patches/0100CC00102B4000/8AFCBE6A930CD42E.yaml), v3, 1.0.3) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | Tony Hawk's Pro Skater 3 + 4 | `01000AD01F94A000` | `A31FE9B8AF1156D4` ([✅](SaltySD/plugins/FPSLocker/patches/01000AD01F94A000/A31FE9B8AF1156D4.yaml), v2, 1.0.3) <br> `65A9705A4BB35AA2` ([✅](SaltySD/plugins/FPSLocker/patches/01000AD01F94A000/65A9705A4BB35AA2.yaml), v4, 1.05) <br> `505069EBC0B82A6F` ([✅](SaltySD/plugins/FPSLocker/patches/01000AD01F94A000/505069EBC0B82A6F.yaml), v5, 1.06) <br> `52DA46C0166A8643` ([✅](SaltySD/plugins/FPSLocker/patches/01000AD01F94A000/52DA46C0166A8643.yaml), v6, 1.07) | ~~[📏](#📏)[🔧](#🔧)~~ |
-| Towa and the Guardians of the Sacred Tree | `0100F52019002000` | `935ABD9796226E9A` (◯, v2, 1.2) |  |
+| Towa and the Guardians of the Sacred Tree | `0100F52019002000` | `08BCA9E5E68794AA` (◯, v3, 1.3) |  |
 | Train Life: A Railway Simulator | `0100FC101513E000` | `A9CE4E0196706EC8` (❌📌, v1, 1.0.1) | [📏](#📏) |
 | TRANSFORMERS: EARTHSPARK - Expedition | `010005001A8CA000` | `F87BEAF2C5CE13E3` ([✅](SaltySD/plugins/FPSLocker/patches/010005001A8CA000/F87BEAF2C5CE13E3.yaml), v5, 1.0.5) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
 | TRANSFORMERS: Galactic Trials | `0100C12017BCA000` | `F01A4E60035AF15A` ([✅](SaltySD/plugins/FPSLocker/patches/0100C12017BCA000/F01A4E60035AF15A.yaml), v1, 1.0.1) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |

@@ -491,7 +491,7 @@ PATCH AVAILABILITY<br>
 | Hello Kitty Island Adventure | `010027901C89C000` | `605AF52D69CF49B7` (◯, v10, 2.11.1) |  |
 | Hellpoint | `010024600C794000` | `3776E7BBC7C01E43` ([✅](SaltySD/plugins/FPSLocker/patches/010024600C794000/3776E7BBC7C01E43.yaml), v3, 1.0.2.0) | ~~[📏](#📏)~~ |
 | Hello Neighbor 2 | `0100EAF01527E000` | `AB75C103EEC0D5FC` ([✅](SaltySD/plugins/FPSLocker/patches/0100EAF01527E000/AB75C103EEC0D5FC.yaml), v1, 1.1) | ~~[🔐](#🔐)[🔧](#🔧)~~ |
-| Hentai Vs. Evil | `0100267013F04000` | `30BDD096B2E78836` (◯, v0, 1.0.0) |  |
+| Hentai vs. Evil | `0100267013F04000` | `30BDD096B2E78836` (◯, v0, 1.0.0) |  |
 | Hero's Hour | `010005E01E5E6000` | `8B0C5F41A0CCDFD9` (❌, v2, 2.5.3) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️) |
 | High On Life | `0100C1101EE5A000` | `950FB0C3D58D6A7B` ([✅](SaltySD/plugins/FPSLocker/patches/0100C1101EE5A000/950FB0C3D58D6A7B.yaml), v5, 1.0.5) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
 | Highwater | `0100D1A019EBA000` | `3A38653015036D51` (◯, v1, 1.0.1) |  |
@@ -586,7 +586,7 @@ PATCH AVAILABILITY<br>
 | Life is Strange: True Colors | `0100500012AB4000` | `118AA7B71E824B3B` ([✅](SaltySD/plugins/FPSLocker/patches/0100500012AB4000/118AA7B71E824B3B.yaml), v4, 1.0.4) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
 | Little Big Adventure - Twinsen's Quest | `0100BB901FA12000` | `52802B73E6C71920` (◯, v4, 1.1.2) |  |
 | Little Droid | `0100DB6020CCE000` | `0A0630C01D7130B7` ([✅](SaltySD/plugins/FPSLocker/patches/0100DB6020CCE000/0A0630C01D7130B7.yaml), v4, 1.0.4) | ~~[📷](#📷)~~ |
-| Little Kitty, Big City | `01000A4019FA2000` | `D3276F6AA64F6DE0` (◯, v16, 1.25.10.07_5538) |  |
+| Little Kitty, Big City | `01000A4019FA2000` | `75D31685CF32386E` (◯, v17, 1.25.12.10_5904) |  |
 | Little Noah: Scion of Paradise | `0100535014D76000` | `8CCC67A5A75CB8E5` ([✅](SaltySD/plugins/FPSLocker/patches/0100535014D76000/8CCC67A5A75CB8E5.yaml), v7, 1.41) | ~~[📷](#📷)~~ |
 | Little Nightmares II | `010097100EDD6000` | `7F4216B6E784A4B2` ([✅](SaltySD/plugins/FPSLocker/patches/010097100EDD6000/7F4216B6E784A4B2.yaml), v4, 1.4) | ~~[📏](#📏)~~ |
 | Little Nightmares III | `010066101A55A000` | `338C569A607B7C30` ([✅](SaltySD/plugins/FPSLocker/patches/010066101A55A000/338C569A607B7C30.yaml), v1, 1.0.2) <br> `F3FFA17B5E56809F` ([✅](SaltySD/plugins/FPSLocker/patches/010066101A55A000/F3FFA17B5E56809F.yaml), v2, 1.0.3) <br> `911284C45A26DD34` ([✅](SaltySD/plugins/FPSLocker/patches/010066101A55A000/911284C45A26DD34.yaml), v3, 1.0.4) | ~~[🔧](#🔧)~~ |
@@ -1212,7 +1212,8 @@ PATCH AVAILABILITY<br>
 | EVERYBODY'S GOLF: Hot Shots `US` | `0100821020BBC000` | `D45002D206976B20` (❌📌, v5, 1.1.4) | [📏](#📏) |
 | みんなのGOLF WORLD | `0100760020BBA000` | `734C4A6ED33AE189` ([✅](SaltySD/plugins/FPSLocker/patches/0100760020BBA000/734C4A6ED33AE189.yaml), v4, 1.1.3) <br> `8E3D8436FCAA4C78` ([✅](SaltySD/plugins/FPSLocker/patches/0100760020BBA000/8E3D8436FCAA4C78.yaml), v5, 1.1.4) | ~~[📏](#📏)~~ |
 | - 모두의 골프 월드<br>- 全民高爾夫 環球之旅 | `0100422020BC4000` | `A179DD4F4BFB3A04` ([✅](SaltySD/plugins/FPSLocker/patches/0100422020BC4000/A179DD4F4BFB3A04.yaml), v4, 1.1.3) | ~~[📏](#📏)~~ |
-| Little Goody Two Shoes | `010036E019EA2000` | `6895FE7D0D1B8E2F` ([✅](SaltySD/plugins/FPSLocker/patches/010036E019EA2000/6895FE7D0D1B8E2F.yaml), v0, 1.0.5) | ~~[📷](#📷)~~ |
+| Hot Blood | `01006FC01B540000` | `B9F02B03CE485DCA` ([✅](SaltySD/plugins/FPSLocker/patches/01006FC01B540000/B9F02B03CE485DCA.yaml), v0, 1.0.0) | ~~[📏](#📏)~~ |
+| Little Goody Two Shoes | `010036E019EA2000` | `B9F02B03CE485DCA` ([✅](SaltySD/plugins/FPSLocker/patches/010036E019EA2000/6895FE7D0D1B8E2F.yaml), v0, 1.0.5) | ~~[📷](#📷)~~ |
 | Misc. A Tiny Tale | `0100A5E014196000` | `0E9D849EF47198D8` ([✅](SaltySD/plugins/FPSLocker/patches/0100A5E014196000/0E9D849EF47198D8.yaml), v5, 1.0.4) <br> `D24A46A2618C9E38` ([✅](SaltySD/plugins/FPSLocker/patches/0100A5E014196000/D24A46A2618C9E38.yaml), v6, 1.0.5) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Mortal Shell | `0100154019A7C000` | `6D9F6C7B79F5197F` ([✅](SaltySD/plugins/FPSLocker/patches/0100154019A7C000/6D9F6C7B79F5197F.yaml), v2, 1.2.0) | ~~[📏](#📏)~~ |
 | MudRunner - American Wilds Edition | `01009D200952E000` | `028C5AB881F17582` ([✅](SaltySD/plugins/FPSLocker/patches/01009D200952E000/028C5AB881F17582.yaml), v2, 4.5) | ~~[📏](#📏)~~ |

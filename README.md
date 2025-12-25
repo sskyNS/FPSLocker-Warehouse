@@ -569,6 +569,7 @@ PATCH AVAILABILITY<br>
 | Lara Croft and the Temple of Osiris | `010079C017F5E001` | `F47C697C2B59443B` ([✅](SaltySD/plugins/FPSLocker/patches/010079C017F5E001/F47C697C2B59443B.yaml), v0, 1.1_65791) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | LEGO 2K Drive | `0100739018020000` | `B75E7D3DB78D69C1` ([✅](SaltySD/plugins/FPSLocker/patches/0100739018020000/B75E7D3DB78D69C1.yaml), v17, 1.17) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
 | LEGO City Undercover | `010085500130A000` | `32C590B064956546` ([✅](SaltySD/plugins/FPSLocker/patches/010085500130A000/32C590B064956546.yaml), v3, 1.0.3) | ~~[📺](#📺)~~ |
+| LEGO City Undercover `US` | `01003A30012C0000` | `669F6E70C268F748` (❌📌, v2, 1.0.2) | ~~[📺](#📺)~~ |
 | LEGO DC Super-Villains | `010070D009FEC000` | `711C52FC37606D45` (◯, v8, 1.0.8) |  |
 | LEGO Horizon Adventures | `010073C01AF34000` | `2D99FA4793E426C3` ([✅](SaltySD/plugins/FPSLocker/patches/010073C01AF34000/2D99FA4793E426C3.yaml), v1, 1.1.0) <br> `675538722EE1FACB` ([✅](SaltySD/plugins/FPSLocker/patches/010073C01AF34000/675538722EE1FACB.yaml), v2, 1.2.0) <br> `B3DFF885ABB66B5C` ([✅](SaltySD/plugins/FPSLocker/patches/010073C01AF34000/B3DFF885ABB66B5C.yaml), v3, 1.3.0) <br> `C6F56735E3837278` ([✅](SaltySD/plugins/FPSLocker/patches/010073C01AF34000/C6F56735E3837278.yaml), v4, 1.4.0) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | LEGO Jurassic World | `01001C100E772000` | `1B80403BE8882745` (◯, v1, 1.0.1) |  |
@@ -841,7 +842,7 @@ PATCH AVAILABILITY<br>
 | Ruined King: A League of Legends Story | `0100947013122000` | `9FC46F388F6C684C` ([✅](SaltySD/plugins/FPSLocker/patches/0100947013122000/9FC46F388F6C684C.yaml), v7, 1.7) | ~~[📏](#📏)~~ |
 | Ruiner | `01006EC00F2CC000` | `F199FFD7D83F399E` ([✅](SaltySD/plugins/FPSLocker/patches/01006EC00F2CC000/F199FFD7D83F399E.yaml), v3, 1.3) | ~~[📏](#📏)~~ |
 | Rune Factory 5 | `0100CDC013238000` | `D626F7A72AF54744` ([✅](SaltySD/plugins/FPSLocker/patches/0100CDC013238000/D626F7A72AF54744.yaml), v2, 1.0.2) | ~~[📏](#📏)~~ |
-| Rune Factory 5 `US` | `0100CDC013238000` | `54DE72AFB1AFCC43` (❌📌, v2, 1.0.2) | [📏](#📏) |
+| Rune Factory 5 `US` | `01002F7013224000` | `54DE72AFB1AFCC43` (❌📌, v2, 1.0.2) | [📏](#📏) |
 | Rune Factory: Guardians of Azuma | `01003AF0200B0000` | `7F731AAE7DDCAF66` ([✅](SaltySD/plugins/FPSLocker/patches/01003AF0200B0000/7F731AAE7DDCAF66.yaml), v3, 1.0.3) <br> `5F96AEDEA20AE78F` ([✅](SaltySD/plugins/FPSLocker/patches/01003AF0200B0000/5F96AEDEA20AE78F.yaml), v4, 1.0.4) <br> `E43BBBBFACE60867` ([✅](SaltySD/plugins/FPSLocker/patches/01003AF0200B0000/E43BBBBFACE60867.yaml), v5, 1.0.5) <br> `742CA53262A767AE` ([✅](SaltySD/plugins/FPSLocker/patches/01003AF0200B0000/742CA53262A767AE.yaml), v6, 1.1.0) <br> `F678FD2BB197125B` ([✅](SaltySD/plugins/FPSLocker/patches/01003AF0200B0000/F678FD2BB197125B.yaml), v7, 1.1.1) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Rune Factory: Guardians of Azuma `US` | `010022A02008C000` |`F678FD2BB197125B` ([✅](SaltySD/plugins/FPSLocker/patches/010022A02008C000/F678FD2BB197125B.yaml), v7, 1.1.1) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Rune Factory: Guardians of Azuma `Cartridge only` | `0100CFB01CDCE000` |`F678FD2BB197125B` ([✅](SaltySD/plugins/FPSLocker/patches/0100CFB01CDCE000/F678FD2BB197125B.yaml), v7, 1.1.1) | ~~[📏](#📏)[🔧](#🔧)~~ |

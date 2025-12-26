@@ -212,6 +212,7 @@ PATCH AVAILABILITY<br>
 | Bro Falls | `01005EF01A12E000` | `A07FFE2F32878CE9` (◯, v0, 1.57) |  |
 | Broken Roads | `0100FAD01861C000` | `D84426C8D6B8D947` ([✅](SaltySD/plugins/FPSLocker/patches/0100FAD01861C000/D84426C8D6B8D947.yaml), v1, 1.2.11059) | ~~[📏](#📏)~~ |
 | Builder Simulator | `01000B101E3D8000` | `05DCD7F9AE5727D8` (◯, v0, 1.0.0) |  |
+| Bullets & Brains | `01006F0020DDE000` | `CFF5119703DDD83F` (◯, v0, 1.0) |  |
 | Bulletstorm | `01003DD00D658000` | `32FC35DF1C50E1F1` (◯, v0, 1.0.0) |  |
 | Bum Simulator | `01008E101E868000` | `42AD50169E847BA2` ([✅](SaltySD/plugins/FPSLocker/patches/01008E101E868000/42AD50169E847BA2.yaml), v2, 1.0.2) <br> `CE6953FB28A66265` ([✅](SaltySD/plugins/FPSLocker/patches/01008E101E868000/CE6953FB28A66265.yaml), v3, 1.0.3) | ~~[🔧](#🔧)~~ |
 | C.A.R.D.S. RPG: The Misty Battlefield | `010066D01D0F0000` | `6019714364B13966` (◯, v12, 2.0.2) |  |

@@ -1050,7 +1050,7 @@ PATCH AVAILABILITY<br>
 | The LEGO Movie 2 - Videogame | `0100A4400BE74000` | `BAC1309DDF75B14D` (◯, v3, 1.0.3) |  |
 | The LEGO NINJAGO Movie Video Game | `01000CE002072000` | `346959B36CD9F14D` ([✅](SaltySD/plugins/FPSLocker/patches/01000CE002072000/346959B36CD9F14D.yaml), v3, 1.0.3) | ~~[📺](#📺)~~ |
 | The Outer Worlds | `0100626011656000` | `761CD556AB357C87` ([✅](SaltySD/plugins/FPSLocker/patches/0100626011656000/761CD556AB357C87.yaml), v5, 1.0.5) | ~~[📏](#📏)~~ |
-| The Rogue Prince of Persia | `01008D9022462000` | `2C1AF17DD546A5BF` (◯, v2, 1.0.4) |  |
+| The Rogue Prince of Persia | `01008D9022462000` | `302BF60698C028D9` (◯, v3, 1.0.5) |  |
 | The Settlers: New Allies | `0100F3200E7CA000` | `EAA0B789264F2A75` ([✅](SaltySD/plugins/FPSLocker/patches/0100F3200E7CA000/EAA0B789264F2A75.yaml), v7, 1.0.7) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | The Sinking City | `010028D00BA1A000` | `85E49C169A8B988A` ([✅](SaltySD/plugins/FPSLocker/patches/010028D00BA1A000/85E49C169A8B988A.yaml), v2, 1.2.0) | ~~[📏](#📏)~~ |
 | The Smurfs - Dreams | `01008E401E6D0000` | `C124FFD193F533B4` ([✅](SaltySD/plugins/FPSLocker/patches/01008E401E6D0000/C124FFD193F533B4.yaml), v1, 1.0.1) <br> `E08769D5B56A5A25` ([✅](SaltySD/plugins/FPSLocker/patches/01008E401E6D0000/E08769D5B56A5A25.yaml), v3, 1.0.3) | ~~[🔧](#🔧)~~ |
@@ -1135,6 +1135,7 @@ PATCH AVAILABILITY<br>
 | VARIOUS DAYLIFE | `0100538017BAC000` | `A2DDF741D0E37D15` ([✅](SaltySD/plugins/FPSLocker/patches/0100538017BAC000/A2DDF741D0E37D15.yaml), v1, 1.0.1) | ~~[🔐](#🔐)[🔧](#🔧)~~ |
 | Viewfinder | `0100F9D023176000` | `40F9641A24F5512C` (◯, v1, 1.1.8) |  |
 | Warhammer 40,000: Boltgun | `01005FD017E60000` | `7C992B6A003C599F` ([✅](SaltySD/plugins/FPSLocker/patches/01005FD017E60000/7C992B6A003C599F.yaml), v3, 1.0.0.3) <br> `B8630C6EE3A22FE8` ([✅](SaltySD/plugins/FPSLocker/patches/01005FD017E60000/B8630C6EE3A22FE8.yaml), v5, 1.0.0.6) <br> `3E961285846C72A5` ([✅](SaltySD/plugins/FPSLocker/patches/01005FD017E60000/3E961285846C72A5.yaml), v6, 1.0.0.7) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
+| Warhammer 40,000: Dakka Squadron | `01007B301CFBE000` | `7E20C8548DC38F3A` ([✅](SaltySD/plugins/FPSLocker/patches/01007B301CFBE000/7E20C8548DC38F3A.yaml), v2, 1.0.2) | ~~[🔧](#🔧)~~ |
 | Warhammer 40000: Shootas, Blood & Teef | `010088B0155E2000` | `C9300E99B4975DCF` (◯, v3, 1.0.3_Switch) |  |
 | WARRIORS: Abyss | `01005AE0209A8000` | `50C9028B61A0BB7F` ([✅](SaltySD/plugins/FPSLocker/patches/01005AE0209A8000/50C9028B61A0BB7F.yaml), v3, 1.1.0) <br> `293D73083149473E` ([✅](SaltySD/plugins/FPSLocker/patches/01005AE0209A8000/293D73083149473E.yaml), v6, 1.2.1) <br> `71C5F3CB333F1542` ([✅](SaltySD/plugins/FPSLocker/patches/01005AE0209A8000/71C5F3CB333F1542.yaml), v8, 1.3.0) <br> `36B692C0FA9F6F46` ([✅](SaltySD/plugins/FPSLocker/patches/01005AE0209A8000/36B692C0FA9F6F46.yaml), v10, 1.4.0) <br> `2D22A87AE49C75AA` ([✅](SaltySD/plugins/FPSLocker/patches/01005AE0209A8000/2D22A87AE49C75AA.yaml), v11, 1.4.2) <br> `A9DEA3043D6E0060` ([✅](SaltySD/plugins/FPSLocker/patches/01005AE0209A8000/A9DEA3043D6E0060.yaml), v12, 1.5.0) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | 無双アビス | `01000400204FE000` | `2D22A87AE49C75AA` ([✅](SaltySD/plugins/FPSLocker/patches/01000400204FE000/2D22A87AE49C75AA.yaml), v10, 1.4.2) <br> `A9DEA3043D6E0060` ([✅](SaltySD/plugins/FPSLocker/patches/01000400204FE000/A9DEA3043D6E0060.yaml), v11, 1.5.0) | ~~[🔐](#🔐)[📏](#📏)~~ |
@@ -1147,7 +1148,7 @@ PATCH AVAILABILITY<br>
 | What Remains of Edith Finch | `010038900DFE0000` | `E9578A470B175851` ([✅](SaltySD/plugins/FPSLocker/patches/010038900DFE0000/E9578A470B175851.yaml), v0, 1.0.0) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | While Waiting | `0100E9A021946000` | `47C0168998492210` (◯, v1, 1.1.2) |  |
 | White Day: A Labirynth Named School | `010076601839C000` | `36D6740B3873CE4A` (◯, v1, 1.0.2) |  |
-| Winter Burrow | `01006690239D8000` | `DD49E7493C34E809` (◯, v2, 1.0.2) |  |
+| Winter Burrow | `01006690239D8000` | `71401A949132778C` (◯, v3, 1.0.3) |  |
 | WitchSpringR | `010018401EEA8000` | `5E3F71147A485112` (◯, v6, 1.4.9) |  |
 | Wizard of Legend 2 | `01006BB0203CA000` | `F8FA82D6A1BFE328` ([✅](SaltySD/plugins/FPSLocker/patches/01006BB0203CA000/F8FA82D6A1BFE328.yaml), v2, 1.1.0b) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Wobbly Life | `010039501F11C000` | `B174F363C2823CBE` ([✅](SaltySD/plugins/FPSLocker/patches/010039501F11C000/B174F363C2823CBE.yaml), v5, 1.0.0.3) | ~~[📏](#📏)~~ |

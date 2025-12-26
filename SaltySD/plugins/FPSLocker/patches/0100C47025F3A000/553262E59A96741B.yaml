@@ -3,7 +3,7 @@
 # Game has bug that makes it work 2x slower than in other platforms, so with this patch we are also fixing the issue across all FPS ranges
 
 ALL_FPS:
-  # Disable bUseFixedFrameRagte
+  # Disable bUseFixedFrameRate
   -
     type: write
     address: [MAIN, 0x7EEA3E8, 0xC34]

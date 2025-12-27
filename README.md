@@ -1081,6 +1081,7 @@ PATCH AVAILABILITY<br>
 | The Witcher 3: Wild Hunt - The Complete Edition `Cartridge only 2` | `010016C00F474000` | `4BC4A8A814FD46A4` ([✅](SaltySD/plugins/FPSLocker/patches/010016C00F474000/4BC4A8A814FD46A4.yaml), v6, 4.04b) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | The Witcher 3: Wild Hunt | `0100E67012924000` | `B151A224A429F9A7` ([✅](SaltySD/plugins/FPSLocker/patches/0100E67012924000/B151A224A429F9A7.yaml), v4, 4.04b) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | ウィッチャー３　ワイルドハント | `01003FB012926000` | `D27FD8A515077F34` ([✅](SaltySD/plugins/FPSLocker/patches/01003FB012926000/D27FD8A515077F34.yaml), v4, 4.04b) | ~~[🔐](#🔐)[📏](#📏)~~ |
+| Thief Simulator | `0100CE400E34E000` | `3188434D02663149` (◯, v2, 1.4.0) |  |
 | Thronebreaker: The Witcher Tales | `0100E910103B4000` | `1BD046113635234D` (◯, v2, 1.0.2) |  |
 | Thirsty Suitors | `0100982019374000` | `9DD9149968A0B8D3` (❌, v0, NS27619.127559) | [📏](#📏) |
 | Tiebreak+ | `010008301AA96000` | `2A5244CCB17B44AC` ([✅](SaltySD/plugins/FPSLocker/patches/010008301AA96000/2A5244CCB17B44AC.yaml), v1, 1.1.0) <br> `5BCA5C20C8F8A9B4` ([✅](SaltySD/plugins/FPSLocker/patches/010008301AA96000/5BCA5C20C8F8A9B4.yaml), v2, 1.2.0) <br> `88CC45A195E0BDA8` ([✅](SaltySD/plugins/FPSLocker/patches/010008301AA96000/88CC45A195E0BDA8.yaml), v3, 1.3.0) <br> `612E3D607D2A13BB` ([✅](SaltySD/plugins/FPSLocker/patches/010008301AA96000/612E3D607D2A13BB.yaml), v4, 1.4.0) | ~~[⚔️](#⚔️)[📏](#📏)~~ |

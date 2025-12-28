@@ -681,7 +681,7 @@ PATCH AVAILABILITY<br>
 | NARUTO SHIPPUDEN: Ultimate Ninja STORM 4 ROAD TO BORUTO | `01006CF00CF60000` | `D3016FC0C0402DFB` (❌, v3, 1.3.0) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)[🎮](#🎮) |
 | NARUTO SHIPPUDEN: Ultimate Ninja STORM 4 ROAD TO BORUTO `US` | `010084D00CF5E000` | `D3016FC0C0402DFB` (❌, v2, 1.2.0) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)[🎮](#🎮) |
 | - ＮＡＲＵＴＯ－ナルト－ 疾風伝　ナルティメットストーム４ ROAD TO BORUTO<br>- 火影忍者疾風傳 終極風暴4 慕留人傳 | `010020100CF62000` | `D3016FC0C0402DFB` (❌, v1, 1.1.0) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)[🎮](#🎮) |
-| NARUTO -나루토- 질풍전 나루티밋 스톰 4 ROAD TO BORUTO | `01006CF00CF60000` | `D3016FC0C0402DFB` (❌, v3, 1.3.0) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)[🎮](#🎮) |
+| NARUTO -나루토- 질풍전 나루티밋 스톰 4 ROAD TO BORUTO | `010020100CF62000` | `D3016FC0C0402DFB` (❌, v3, 1.3.0) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)[🎮](#🎮) |
 | NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS `EUR` | `01005A20190A6000` | `254B4AC2A6395A05` (❌, v9, 1.6.0) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️) |
 | NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS `US` | `0100D2D0190A4000` | `A281486F065593A2` (❌, v9, 1.6.0) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️) |
 | NARUTO X BORUTO ナルティメットストームコネクションズ | `0100FA10190A0000` | `7FB76571A9301DC8` (❌, v9, 1.6.0) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️) |

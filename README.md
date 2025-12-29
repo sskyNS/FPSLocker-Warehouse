@@ -887,6 +887,7 @@ PATCH AVAILABILITY<br>
 | - 짱구는 못 말려『탄광마을의 흰둥이』<br>- 蠟筆小新 煤炭鎮的小白 | `010049901D704000` | `B6ACB0F1227E5A35` (◯, v2, 1.0.2) |  |
 | Shin Megami Tensei III Nocturne | `01003B0012DC2000` | `F8098979DBC7F34E` (❌, v3, 1.0.3) | [⏱️](#⏱️)[🏃](#🏃)[🖥️](#🖥️) |
 | SHIN MEGAMI TENSEI V | `0100B870126CE000` | `019FBFE7738EA314` ([✅](SaltySD/plugins/FPSLocker/patches/0100B870126CE000/019FBFE7738EA314.yaml), v2, 1.0.2) | ~~[📏](#📏)~~ |
+| SHIN MEGAMI TENSEI V `The Americas` | `010063B012DC6000` | `68FED4970010ACF3` ([✅](SaltySD/plugins/FPSLocker/patches/010063B012DC6000/68FED4970010ACF3.yaml), v2, 1.0.2) | ~~[📏](#📏)~~ |
 | 真・女神転生Ⅴ | `01006BD0095F4000` | `019FBFE7738EA314` ([✅](SaltySD/plugins/FPSLocker/patches/01006BD0095F4000/019FBFE7738EA314.yaml), v2, 1.0.2) | ~~[📏](#📏)~~ |
 | 진･여신전생5 | `0100FB70133C0000` | `019FBFE7738EA314` ([✅](SaltySD/plugins/FPSLocker/patches/0100FB70133C0000/019FBFE7738EA314.yaml), v2, 1.0.2) | ~~[📏](#📏)~~ |
 | 真・女神轉生Ⅴ `HK` | `010038D0133C2000` | `019FBFE7738EA314` ([✅](SaltySD/plugins/FPSLocker/patches/010038D0133C2000/019FBFE7738EA314.yaml), v2, 1.0.2) | ~~[📏](#📏)~~ |

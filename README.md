@@ -269,8 +269,8 @@ PATCH AVAILABILITY<br>
 | Crystar | `01003F2016754000` | `7B41D9CC72C2124D` (◯, v2, 1.0.2) |  |
 | Cuisineer | `010087E01FCD6000` | `ACD959FBAECADE00` ([✅](SaltySD/plugins/FPSLocker/patches/010087E01FCD6000/ACD959FBAECADE00.yaml), v3, 2.0.27) | ~~[🛑](#🛑)~~ |
 | Curse of the Dead Gods | `0100D4A0118EA000` | `DB285A63A090884F` (◯, v5, 1.0.0.5) |  |
-| DAEMON X MACHINA | `0100B6400CA56000` | `937209E79E2E0E5D` (❌, v12, 1.4.2a) | [🔢](#🔢) |
-| デモンエクスマキナ | `0100CB8005B26000` | `937209E79E2E0E5D` (❌, v12, 1.4.2a) | [🔢](#🔢) |
+| DAEMON X MACHINA | `0100B6400CA56000` | `937209E79E2E0E5D` (❌, v12, 1.4.2a) | [🏃](#🏃)[🔢](#🔢) |
+| デモンエクスマキナ | `0100CB8005B26000` | `937209E79E2E0E5D` (❌, v12, 1.4.2a) | [🏃](#🏃)[🔢](#🔢) |
 | Danganronpa V3: Killing Harmony | `010063F014176000` | `6CBEE0573826FF73` (◯, v2, 1.0.2) |  |
 | Danganronpa V3: Killing Harmony `EUR` | `010083A016192000` | `6CBEE0573826FF73` (◯, v2, 1.0.2) |  |
 | ニューダンガンロンパV3 みんなのコロシアイ新学期 | `01001AB0140F2000` | `6CBEE0573826FF73` (◯, v2, 1.0.2) |  |

@@ -678,11 +678,11 @@ PATCH AVAILABILITY<br>
 | My Time at Sandrock | `0100B63016916000` | `B74DFD27FC9DA1B4` (◯, v13, 1.4.2.0) |  |
 | - 마이 타임 앳 샌드록<br>- 沙石鎮時光 | `0100F5101C890000` | `B74DFD27FC9DA1B4` (◯, v11, 1.4.2.0) |  |
 | Mythic Ocean | `0100F4F014108000` | `2284DFB25F387719` ([✅](SaltySD/plugins/FPSLocker/patches/0100F4F014108000/2284DFB25F387719.yaml), v1, 1.0.1) | ~~[🔐](#🔐)[📏](#📏)~~ |
-| NARUTO SHIPPUUDEN: Ultimate Ninja STORM TRILOGY | `0100EC800800C000` | `295564276378B0DF` (❌, v1, 1.0.1) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)[🖌️](#🖌️) |
+| NARUTO SHIPPUDEN: Ultimate Ninja STORM TRILOGY | `0100EC800800C000` | `295564276378B0DF` (❌, v1, 1.0.1) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)[🖌️](#🖌️) |
 | NARUTO SHIPPUDEN: Ultimate Ninja STORM 4 ROAD TO BORUTO | `01006CF00CF60000` | `D3016FC0C0402DFB` (❌, v3, 1.3.0) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)[🎮](#🎮) |
 | NARUTO SHIPPUDEN: Ultimate Ninja STORM 4 ROAD TO BORUTO `US` | `010084D00CF5E000` | `D3016FC0C0402DFB` (❌, v2, 1.2.0) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)[🎮](#🎮) |
-| - ＮＡＲＵＴＯ－ナルト－ 疾風伝　ナルティメットストーム４ ROAD TO BORUTO<br>- 火影忍者疾風傳 終極風暴4 慕留人傳 | `010020100CF62000` | `D3016FC0C0402DFB` (❌, v1, 1.1.0) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)[🎮](#🎮) |
-| NARUTO -나루토- 질풍전 나루티밋 스톰 4 ROAD TO BORUTO | `010020100CF62000` | `D3016FC0C0402DFB` (❌, v3, 1.3.0) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)[🎮](#🎮) |
+| - ＮＡＲＵＴＯ－ナルト－ 疾風伝　ナルティメットストーム４ ROAD TO BORUTO<br>- 火影忍者疾風傳 終極風暴4 慕留人傳 | `01003F800CF5C000` | `D3016FC0C0402DFB` (❌, v1, 1.1.0) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)[🎮](#🎮) |
+| NARUTO -나루토- 질풍전 나루티밋 스톰 4 ROAD TO BORUTO | `010020100CF62000` | `D3016FC0C0402DFB` (❌, v1, 1.1.0) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)[🎮](#🎮) |
 | NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS `EUR` | `01005A20190A6000` | `254B4AC2A6395A05` (❌, v9, 1.6.0) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️) |
 | NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS `US` | `0100D2D0190A4000` | `A281486F065593A2` (❌, v9, 1.6.0) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️) |
 | NARUTO X BORUTO ナルティメットストームコネクションズ | `0100FA10190A0000` | `7FB76571A9301DC8` (❌, v9, 1.6.0) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️) |
@@ -1132,7 +1132,7 @@ PATCH AVAILABILITY<br>
 | ウルトラエージ | `01006DD00FE16000` | `CA77083E259D87A2` ([✅](SaltySD/plugins/FPSLocker/patches/01006DD00FE16000/CA77083E259D87A2.yaml), v7, 2.0.4) | ~~[📏](#📏)~~ |
 | Ultra Kaiju Monster Rancher | `01008E0019388000` | `53384CC3D2B4CA9F` (❌, v0, 1.0.1) | [⏱️](#⏱️)[🖥️](#🖥️) |
 | Umurangi Generation | `0100CA3014ADE000` | `372AB37327DB2C31` ([✅](SaltySD/plugins/FPSLocker/patches/0100CA3014ADE000/372AB37327DB2C31.yaml), v6, 1.6.6.0) | ~~[🔐](#🔐)~~ |
-| Uウムランギジェネレーション | `0100670014B3E000` | `372AB37327DB2C31` ([✅](SaltySD/plugins/FPSLocker/patches/0100670014B3E000/372AB37327DB2C31.yaml), v6, 1.6.6.0) | ~~[🔐](#🔐)~~ |
+| ウムランギジェネレーション | `0100670014B3E000` | `372AB37327DB2C31` ([✅](SaltySD/plugins/FPSLocker/patches/0100670014B3E000/372AB37327DB2C31.yaml), v6, 1.6.6.0) | ~~[🔐](#🔐)~~ |
 | Unbox: Newbie's Adventure | `0100592005164000` | `83A6B710A3F3F4F9` ([✅](SaltySD/plugins/FPSLocker/patches/0100592005164000/83A6B710A3F3F4F9.yaml), v3, 1.0.3) | ~~[🔐](#🔐)[🔧](#🔧)~~ |
 | Unbound: Worlds Apart | `0100C5A013B7A000` | `1B98D227021142B1` ([✅](SaltySD/plugins/FPSLocker/patches/0100C5A013B7A000/1B98D227021142B1.yaml), v3, 1.0.3) | ~~[🔧](#🔧)~~ |
 | Undertale | `010080B00AD66000` | `24DB41FCD513D080` (❌, v2, 1.11) | [🔐](#🔐)[⏱️](#⏱️) |

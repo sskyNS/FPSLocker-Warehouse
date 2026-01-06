@@ -87,7 +87,8 @@ for line in file:
             latestUpdate = DATA.database[titleid]
         except:
             print(f"Titleid not found: {titleid}")
-            print(f"Title:{gameTitle}\n")
+            print(f"Title:{gameTitle}")
+            print("---")
             continue
     if (version != latestUpdate):
         print(titleid)
@@ -188,6 +189,7 @@ for i in range(len(tid_keys)):
     print("\n")
 
 print("Script finished execution.")
+
 
 
 

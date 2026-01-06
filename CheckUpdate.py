@@ -16,7 +16,17 @@ def DownloadDatabase():
         print("We cannot check when last time file was updated.")
     else:
         commits = repo.get_commits(path="versions.txt")
-        print("Last database update (YYYY/MM/DD):")
+        print("Last titledb update (YYYY/MM/DD):")
+        print(commits[0].commit.committer.date)
+        print("\n---\n")
+    try:
+        repo = g.get_repo("masagrator/version_dump")
+    except:
+        print("Github API requests limit was achieved.")
+        print("We cannot check when last time file was updated.")
+    else:
+        commits = repo.get_commits(path="version_dump.txt")
+        print("Last version_dump update (YYYY/MM/DD):")
         print(commits[0].commit.committer.date)
         print("\n---\n")
     site = "https://github.com/blawar/titledb/raw/master/versions.txt"
@@ -178,5 +188,7 @@ for i in range(len(tid_keys)):
     print("\n")
 
 print("Script finished execution.")
+
+
 
 

@@ -17,6 +17,8 @@ MASTER_WRITE:
     instructions: [
       [adrp, x8, $fps_lock],
       [ldr, s1, [x8, $fps_lock]],
+      [mov, x0, xzr],
+      [ldr, s0, [x20, 0x24]],
       [nop]
     ]
 ALL_FPS:

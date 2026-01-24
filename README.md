@@ -495,11 +495,11 @@ PATCH AVAILABILITY<br>
 | HEAVEN SEEKER ――The Savior of This Cruel World | `0100EE00205BA000` | `E7011BF08747297B` ([✅](SaltySD/plugins/FPSLocker/patches/0100EE00205BA000/E7011BF08747297B.yaml), v1, 1.0.4.126) <br> `F2D03CFFB8DE5E4C` ([✅](SaltySD/plugins/FPSLocker/patches/0100EE00205BA000/F2D03CFFB8DE5E4C.yaml), v2, 1.0.4.127) <br> `21B3E4EA75F16551` ([✅](SaltySD/plugins/FPSLocker/patches/0100EE00205BA000/21B3E4EA75F16551.yaml), v3, 1.0.5.130) <br> `AA3EDDE660D630AD` ([✅](SaltySD/plugins/FPSLocker/patches/0100EE00205BA000/AA3EDDE660D630AD.yaml), v4, 1.0.5.134) <br> `135595BF76F46B1B` ([✅](SaltySD/plugins/FPSLocker/patches/0100EE00205BA000/135595BF76F46B1B.yaml), v5, 1.2.0.139) | ~~[🛑](#🛑)~~ |
 | Heavenly Bodies | `01004CA01B77E000` | `FE85668E14D7027C` (◯, v0, 00) |  |
 | Hellblade: Senua's Sacrifice | `010044500CF8E000` | `9B3DDF2FB9100E51` ([✅](SaltySD/plugins/FPSLocker/patches/010044500CF8E000/9B3DDF2FB9100E51.yaml), v1, 1.1.0) | ~~[🔐](#🔐)[📏](#📏)~~ |
-| Hello Kitty Island Adventure | `010027901C89C000` | `605AF52D69CF49B7` (◯, v10, 2.11.1) |  |
+| Hello Kitty Island Adventure | `010027901C89C000` | `FCB32EC9E9F7F8BE` (◯, v11, 2.12.2) |  |
 | Hellpoint | `010024600C794000` | `3776E7BBC7C01E43` ([✅](SaltySD/plugins/FPSLocker/patches/010024600C794000/3776E7BBC7C01E43.yaml), v3, 1.0.2.0) | ~~[📏](#📏)~~ |
 | Hello Neighbor 2 | `0100EAF01527E000` | `AB75C103EEC0D5FC` ([✅](SaltySD/plugins/FPSLocker/patches/0100EAF01527E000/AB75C103EEC0D5FC.yaml), v1, 1.1) | ~~[🔐](#🔐)[🔧](#🔧)~~ |
 | Hentai vs. Evil | `0100267013F04000` | `30BDD096B2E78836` (◯, v0, 1.0.0) |  |
-| Hero's Hour | `010005E01E5E6000` | `8B0C5F41A0CCDFD9` (❌, v2, 2.5.3) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️) |
+| Hero's Hour | `010005E01E5E6000` | `97FA84EAB42AFE5B` (❌, v3, 2.5.4) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️) |
 | High On Life | `0100C1101EE5A000` | `950FB0C3D58D6A7B` ([✅](SaltySD/plugins/FPSLocker/patches/0100C1101EE5A000/950FB0C3D58D6A7B.yaml), v5, 1.0.5) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
 | Highwater | `0100D1A019EBA000` | `3A38653015036D51` (◯, v1, 1.0.1) |  |
 | Hitman: Absolution | `010037C022390000` | `96B7F9BD973D298E` ([✅](SaltySD/plugins/FPSLocker/patches/010037C022390000/96B7F9BD973D298E.yaml), v0, 1.2.2RC1) | ~~[🔐](#🔐)[📏](#📏)~~ |
@@ -558,7 +558,7 @@ PATCH AVAILABILITY<br>
 | Kao the Kangaroo `US` | `010078C01769A000` | `7BA282E94D34C620` ([✅](SaltySD/plugins/FPSLocker/patches/010078C01769A000/7BA282E94D34C620.yaml), v5, 1.5) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Katamari Damacy REROLL | `0100D7000C2C6000` | `B528B17AD9C71F41` (❌, v2, 1.2) | [⏱️](#⏱️) |
 | Kawaii Slime Arena | `01001210199E8000` | `4F02C24688DB725C` (◯, v0, 1.0.0) |  |
-| Kentum | `01008F0022CD2000` | `BC18BFC4C64571A9` (◯, v1, 1.0.1) |  |
+| Kentum | `01008F0022CD2000` | `3F430EA986C59462` (◯, v2, 1.0.2) |  |
 | KIBORG | `0100AFE01EC6C000` | `635E7DB24F2BCD32` ([✅](SaltySD/plugins/FPSLocker/patches/0100AFE01EC6C000/635E7DB24F2BCD32.yaml), v0, 1.0) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Kiki | `0100E2D01F290000` | `722D0E06169C2458` (◯, v0, 1.0.0) |  |
 | King of Seas | `01008D80148C8000` | `BC82DB38671F8468` ([✅](SaltySD/plugins/FPSLocker/patches/01008D80148C8000/BC82DB38671F8468.yaml), v4, 1.0.4) | ~~[🔧](#🔧)~~ |
@@ -699,7 +699,7 @@ PATCH AVAILABILITY<br>
 | NBA 2K23 | `0100ACA017E4E000` | `BBE7CBE1AC01DC48` (◯, v12, 1.12) |  |
 | NBA 2K24 | `010006501A8D8000` | `D418DFA41758684C` (◯, v11, 1.11) |  |
 | NBA 2K25 | `0100DFF01ED44000` | `4E232F4CA49E3446` (◯, v11, 1.11) |  |
-| NBA 2K26 | `0100CBF022E18000` | `6A369D512E807608` (◯, v4, 1.04) |  |
+| NBA 2K26 | `0100CBF022E18000` | `1CF17D30D2270166` (◯, v5, 1.05) |  |
 | Need For Speed Hot Pursuit | `010029B0118E8000` | `799D1061182C1302` ([✅](SaltySD/plugins/FPSLocker/patches/010029B0118E8000/799D1061182C1302.yaml), v3, 1.0.3) | ~~[🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)[🔢](#🔢)~~ |
 | Nelke & the Legendary Alchemists | `01006ED00BC76000` | `DBD272113FD196D5` (◯, v3, 1.0.3) |  |
 | Neptunia: Sisters VS Sisters | `0100A9001C042000` | `3565E26E8827C846` ([✅](SaltySD/plugins/FPSLocker/patches/0100A9001C042000/3565E26E8827C846.yaml), v0, 1.0.0) | ~~[📏](#📏)~~ |
@@ -791,7 +791,7 @@ PATCH AVAILABILITY<br>
 | Pokemon: Let's Go, Pikachu! | `010003F003A34000` | `C208DB6A4EF4361F` (❌, v2, 1.0.2) | [⚔️](#⚔️)[⏱️](#⏱️)[🖥️](#🖥️) |
 | Pokemon Brilliant Diamond | `0100000011D90000` | `94CEAE325C205C4B` (❌, v6, 1.3.0) | [🏃](#🏃) |
 | Pokemon Legends: Arceus | `01001F5010DFA000` | `AEE8F150DDA1B5A8` (❌, v4, 1.1.1) | [⚔️](#⚔️)[⏱️](#⏱️)[🖥️](#🖥️) |
-| Pokemon Legends: Z-A | `0100F43008C44000` | `8A1C86C437394B69` (❌, v4, 2.0.0) | [⏱️](#⏱️)[🖥️](#🖥️)[🔢](#🔢)[⚔️](#⚔️) |
+| Pokemon Legends: Z-A | `0100F43008C44000` | `BCE5D5393B5AA3A8` (❌, v5, 2.0.1) | [⏱️](#⏱️)[🖥️](#🖥️)[🔢](#🔢)[⚔️](#⚔️) |
 | Pokemon Mystery Dungeon: Rescue Team DX | `01003D200BAA2000` | `3AB632DEE82D5944` (❌, v2, 1.0.2) | [🏃](#🏃) |
 | Pokemon Scarlet | `0100A3D008C5C000` | `421C5411B487EB4D` (❌, v12, 4.0.0) | [⚔️](#⚔️)[🏃](#🏃)[⏱️](#⏱️)[🖥️](#🖥️) |
 | Pokemon Shield | `01008DB008C2C000` | `A16802625E7826BF` (❌, v7, 1.3.2) | [⚔️](#⚔️)[⏱️](#⏱️)[🖥️](#🖥️) |

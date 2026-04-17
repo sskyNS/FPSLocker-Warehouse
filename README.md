@@ -81,7 +81,7 @@ PATCH AVAILABILITY<br>
 | Advance Wars 1+2: Re-Boot Camp | `0100300012F2A000` | `320A17744AEFD67F` ([✅](SaltySD/plugins/FPSLocker/patches/0100300012F2A000/320A17744AEFD67F.yaml), v0, 1.0.0) | ~~[🔐](#🔐)~~ |
 | Adventure Time: Pirates of the Enchiridion | `0100C4E004406000` | `550CC8AAD902C04F` (◯, v4, 1.0.4.26870) |  |
 | AEW: Fight Forever | `0100BD10190C0000` | `45C15AE4450708FD` ([✅](SaltySD/plugins/FPSLocker/patches/0100BD10190C0000/45C15AE4450708FD.yaml), v9, 1.10.0) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
-| Against the Storm | `010062F01F2CC000` | `05CDF231DEE9E43D` (◯, v4, 1.19) |  |
+| Against the Storm | `010062F01F2CC000` | `4E92131C17B96DE6` (◯, v5, 1.20) |  |
 | Agent Intercept | `0100B80013C1C000` | `A475D0073EA170B0` (◯, v0, 1.0.0) |  |
 | Agatha Christie - Hercule Poirot: The First Cases | `010000F012936000` | `1570FE23108B93C4` ([✅](SaltySD/plugins/FPSLocker/patches/010000F012936000/1570FE23108B93C4.yaml), v4, 1.0.3.1) | ~~[🛑](#🛑)~~ |
 | Agatha Christie - Hercule Poirot: The London Case | `01002FD01A24C000` | `8F72E0D61C4BA0B1` ([✅](SaltySD/plugins/FPSLocker/patches/01002FD01A24C000/8F72E0D61C4BA0B1.yaml), v2, 1.0.2) | ~~[🛑](#🛑)~~ |
@@ -521,7 +521,7 @@ PATCH AVAILABILITY<br>
 | HEAVEN SEEKER ――The Savior of This Cruel World | `0100EE00205BA000` | `E7011BF08747297B` ([✅](SaltySD/plugins/FPSLocker/patches/0100EE00205BA000/E7011BF08747297B.yaml), v1, 1.0.4.126) <br> `F2D03CFFB8DE5E4C` ([✅](SaltySD/plugins/FPSLocker/patches/0100EE00205BA000/F2D03CFFB8DE5E4C.yaml), v2, 1.0.4.127) <br> `21B3E4EA75F16551` ([✅](SaltySD/plugins/FPSLocker/patches/0100EE00205BA000/21B3E4EA75F16551.yaml), v3, 1.0.5.130) <br> `AA3EDDE660D630AD` ([✅](SaltySD/plugins/FPSLocker/patches/0100EE00205BA000/AA3EDDE660D630AD.yaml), v4, 1.0.5.134) <br> `135595BF76F46B1B` ([✅](SaltySD/plugins/FPSLocker/patches/0100EE00205BA000/135595BF76F46B1B.yaml), v5, 1.2.0.139) | ~~[🛑](#🛑)~~ |
 | Heavenly Bodies | `01004CA01B77E000` | `FE85668E14D7027C` (◯, v0, 00) |  |
 | Hellblade: Senua's Sacrifice | `010044500CF8E000` | `9B3DDF2FB9100E51` ([✅](SaltySD/plugins/FPSLocker/patches/010044500CF8E000/9B3DDF2FB9100E51.yaml), v1, 1.1.0) | ~~[🔐](#🔐)[📏](#📏)~~ |
-| Hello Kitty Island Adventure | `010027901C89C000` | `4A957D16556563F5` (◯, v13, 2.13.0) |  |
+| Hello Kitty Island Adventure | `010027901C89C000` | `A36B0E90AFAB1B51` (◯, v15, 2.14.1) |  |
 | Hellpoint | `010024600C794000` | `3776E7BBC7C01E43` ([✅](SaltySD/plugins/FPSLocker/patches/010024600C794000/3776E7BBC7C01E43.yaml), v3, 1.0.2.0) | ~~[📏](#📏)~~ |
 | Hello Neighbor 2 | `0100EAF01527E000` | `AB75C103EEC0D5FC` ([✅](SaltySD/plugins/FPSLocker/patches/0100EAF01527E000/AB75C103EEC0D5FC.yaml), v1, 1.1) | ~~[🔐](#🔐)[🔧](#🔧)~~ |
 | Hentai vs. Evil | `0100267013F04000` | `30BDD096B2E78836` (◯, v0, 1.0.0) |  |
@@ -959,7 +959,7 @@ PATCH AVAILABILITY<br>
 | Shining Resonance Refrain | `01009A5009A9E000` | `069E3EFC16365FFD` ([✅](SaltySD/plugins/FPSLocker/patches/01009A5009A9E000/069E3EFC16365FFD.yaml), v1, 1.0.1) | ~~[⚔️](#⚔️)[🔐](#🔐)[👄](#👄)~~ |
 | 光明之響 龍奏回音 | `0100D7700AF88000` | `F5AC009011277359` ([✅](SaltySD/plugins/FPSLocker/patches/0100D7700AF88000/F5AC009011277359.yaml), v0, 1.0.0) | ~~[⚔️](#⚔️)[🔐](#🔐)[👄](#👄)~~ |
 | Ship Graveyard Simulator | `010018C01B106000` | `63B72CD5F2A90020` ([✅](SaltySD/plugins/FPSLocker/patches/010018C01B106000/63B72CD5F2A90020.yaml), v0, 1.0.0) | ~~[🔐](#🔐)[📏](#📏)~~ |
-| Ship of Fools | `010076901806C000` | `2C4700E500079C74` (◯, v5, 1.0.5) |  |
+| Ship of Fools | `010076901806C000` | `586579600B0853A1` (◯, v6, 1.0.6) |  |
 | Shirone: the Dragon Girl | `010028F018206000` | `4074315114A7FCE2` (◯, v1, 1.0.6a) |  |
 | Sifu | `01007B5017A12000` | `4A5D86DA05A4E7BB` ([✅](SaltySD/plugins/FPSLocker/patches/01007B5017A12000/4A5D86DA05A4E7BB.yaml), v6, 0.1) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | SIGNALIS | `0100307018934000` | `C32A27E10515B7B8` (◯, v4, 1.4) |  |

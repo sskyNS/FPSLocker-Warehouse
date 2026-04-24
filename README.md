@@ -613,7 +613,7 @@ PATCH AVAILABILITY<br>
 | LEGO Jurassic World | `01001C100E772000` | `1B80403BE8882745` (◯, v1, 1.0.1) |  |
 | LEGO MARVEL Super Heroes | `01006F600FFC8000` | `5D769ABCAD9F2743` (◯, v1, 1.0.1) |  |
 | LEGO MARVEL Super Heroes 2 | `01007690040A0000` | `794534B11CF3BE40` (◯, v7, 1.0.7) |  |
-| LEGO Party | `0100A760232D2000` | `B3829BB4C670184B` (◯, v4, 1.4.3) |  |
+| LEGO Party | `0100A760232D2000` | `74A66F7B01A34F20` (◯, v5, 1.4.3) |  |
 | LEGO Star Wars: The Skywalker Saga | `010042D00D900000` | `EC593A5F9552100A` ([✅](SaltySD/plugins/FPSLocker/patches/010042D00D900000/EC593A5F9552100A.yaml), v9, 1.10.0) | ~~[📏](#📏)~~ |
 | LEGO The Incredibles | `0100F19006E04000` | `414D247F3FD8084E` (◯, v2, 1.0.2) |  |
 | LEGO The Incredibles `US` | `0100A01006E00000` | `2103782A9AE5384E` (◯, v2, 1.0.2) |  |
@@ -701,7 +701,7 @@ PATCH AVAILABILITY<br>
 | Monster Jam Steel Titans 2 | `010051B0131F0000` | `E0E9D0429A2458E1` ([✅](SaltySD/plugins/FPSLocker/patches/010051B0131F0000/E0E9D0429A2458E1.yaml), v2, 1.0.2) | ~~[📏](#📏)~~ |
 | Monster Truck Championship | `0100D30010C42000` | `682F4A502035678D` ([✅](SaltySD/plugins/FPSLocker/patches/0100D30010C42000/682F4A502035678D.yaml), v2, 1.2.0) | ~~[📏](#📏)~~ |
 | Monster Train | `01006D9013894000` | `9DCA1A70C6414A49` (◯, v1, 2.2.0) |  |
-| Monster Train 2 | `010051701FB46000` | `C9BDBCA34CEEC596` (◯, v10, 2.1) |  |
+| Monster Train 2 | `010051701FB46000` | `CB19B43D23202B93` (◯, v11, 2.2.1) |  |
 | Morbid: The Lords of Ire | `01007B0017C90000` | `55DFB4A664D8B596` ([✅](SaltySD/plugins/FPSLocker/patches/01007B0017C90000/55DFB4A664D8B596.yaml), v2, 1.02) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
 | 모비드: 분노의 군주 | `010073301E7E4000` | `55DFB4A664D8B596` ([✅](SaltySD/plugins/FPSLocker/patches/010073301E7E4000/55DFB4A664D8B596.yaml), v1, 1.01) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
 | Moto Racer 4 | `01002ED00B01C000` | `31F61EC3A4FEFDF7` ([✅](SaltySD/plugins/FPSLocker/patches/01002ED00B01C000/31F61EC3A4FEFDF7.yaml), v3, 1.0.3) | ~~[🔧](#🔧)~~ |
@@ -861,7 +861,7 @@ PATCH AVAILABILITY<br>
 | Raccoo Venture | `0100C1E01CDEE000` | `27BB06DD145F39F5` ([✅](SaltySD/plugins/FPSLocker/patches/0100C1E01CDEE000/27BB06DD145F39F5.yaml), v3, 1.0.3) | ~~[🔐](#🔐)[🏃](#🏃)~~ |
 | Rad Rodgers: Radical Edition | `010000600CD54000` | `78885A1CA987C04C` ([✅](SaltySD/plugins/FPSLocker/patches/010000600CD54000/78885A1CA987C04C.yaml), v2, 1.2.0) | ~~[🔐](#🔐)~~ |
 | RAFT SURVIVAL SIMULATOR | `0100A0D01DB4E000` | `99F0F054E0EE7899` ([✅](SaltySD/plugins/FPSLocker/patches/0100A0D01DB4E000/99F0F054E0EE7899.yaml), v0, 1.0.0) <br> `0050303DBCEF561D` ([✅](SaltySD/plugins/FPSLocker/patches/0100A0D01DB4E000/0050303DBCEF561D.yaml), v1, 1.0.1) | ~~[📷](#📷)~~ |
-| Rain World | `010047600BF72000` | `55C2AF8FDE212EF5` (◯, v16, 1.11.7b) |  |
+| Rain World | `010047600BF72000` | `7BCC8B7A36A275D6` (◯, v17, 1.11.8) |  |
 | RAINBOW HIGH: RUNWAY RUSH | `010039E0182D8000` | `8ECB01C6E7E4F50C` (◯, v0, 1.0.0) |  |
 | Raji: An Ancient Epic | `010010B00DDA2000` | `8A39E660F956BB00` ([✅](SaltySD/plugins/FPSLocker/patches/010010B00DDA2000/8A39E660F956BB00.yaml), v4, 1.0.4) | ~~[📏](#📏)~~ |
 | Ravenswatch | `0100E6701DF4E000` | `2736F4BCB2187C82` (◯, v12, 1.12.0) |  |
@@ -1170,7 +1170,7 @@ PATCH AVAILABILITY<br>
 | Tinykin | `0100A73016576000` | `4E2AA28721AFF2C1` ([✅](SaltySD/plugins/FPSLocker/patches/0100A73016576000/4E2AA28721AFF2C1.yaml), v4, 1.1.1) | ~~[📏](#📏)~~ |
 | Tokyo Mirage Sessions<br>#FE Encore | `0100A9400C9C2000` | `33463E11899166BB` ([✅](SaltySD/plugins/FPSLocker/patches/0100A9400C9C2000/33463E11899166BB.yaml), v0, 1.0.0) | ~~[⚔️](#⚔️)[⏱️](#⏱️)[🏃](#🏃)~~[🖥️](#🖥️) |
 | Tomb Raider: Definitive Edition | `0100092021C80000` | `2A4A71E176DAA356` ([✅](SaltySD/plugins/FPSLocker/patches/0100092021C80000/2A4A71E176DAA356.yaml), v1, 1.0.1) <br> `AD288DAF31DEEDFD` ([✅](SaltySD/plugins/FPSLocker/patches/0100092021C80000/AD288DAF31DEEDFD.yaml), v2, 1.0.2) <br> `F5C3661E4631499D` ([✅](SaltySD/plugins/FPSLocker/patches/0100092021C80000/F5C3661E4631499D.yaml), v3, 1.0.3) | ~~[📏](#📏)~~ |
-| Tomodachi Life: Living the Dream | `010051F0207B2000` | `56BF85BD53541346` (❌, v0, 1.0.0) | [⚔️](#⚔️)[⏱️](#⏱️)[🖥️](#🖥️) |
+| Tomodachi Life: Living the Dream | `010051F0207B2000` | `86867CB7D07E4437` (❌, v1, 1.0.1) | [⚔️](#⚔️)[⏱️](#⏱️)[🖥️](#🖥️) |
 | Tony Hawk's Pro Skater 1 + 2 | `0100CC00102B4000` | `8AFCBE6A930CD42E` ([✅](SaltySD/plugins/FPSLocker/patches/0100CC00102B4000/8AFCBE6A930CD42E.yaml), v3, 1.0.3) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | Tony Hawk's Pro Skater 3 + 4 | `01000AD01F94A000` | `A31FE9B8AF1156D4` ([✅](SaltySD/plugins/FPSLocker/patches/01000AD01F94A000/A31FE9B8AF1156D4.yaml), v2, 1.0.3) <br> `65A9705A4BB35AA2` ([✅](SaltySD/plugins/FPSLocker/patches/01000AD01F94A000/65A9705A4BB35AA2.yaml), v4, 1.05) <br> `505069EBC0B82A6F` ([✅](SaltySD/plugins/FPSLocker/patches/01000AD01F94A000/505069EBC0B82A6F.yaml), v5, 1.06) <br> `52DA46C0166A8643` ([✅](SaltySD/plugins/FPSLocker/patches/01000AD01F94A000/52DA46C0166A8643.yaml), v6, 1.07) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Towa and the Guardians of the Sacred Tree | `0100F52019002000` | `08BCA9E5E68794AA` (◯, v3, 1.3) |  |

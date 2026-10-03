@@ -1,0 +1,178 @@
+name: PR/Commit Validation and Minute Sync
+
+on:
+  pull_request:
+    branches:
+      - v4
+  push:
+    branches:
+      - v4
+  schedule:
+    - cron: '*/5 * * * *'  # 每5分钟运行一次
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: '选择运行模式'
+        required: false
+        default: 'both'
+        type: choice
+        options:
+          - both
+          - validate-only
+          - sync-only
+
+permissions:
+  contents: write
+
+jobs:
+  validate-patches:
+    if: |
+      github.event_name == 'pull_request' || 
+      github.event_name == 'push' ||
+      (github.event_name == 'workflow_dispatch' && 
+       (github.event.inputs.mode == 'both' || github.event.inputs.mode == 'validate-only'))
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout PR branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up GCC and build tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y build-essential gcc g++
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+
+      - name: Clone FPSLocker repository
+        run: git clone https://github.com/masagrator/FPSLocker.git FPSLocker
+
+      - name: Build FPSLocker tester
+        run: |
+          cd FPSLocker/tester
+          python run.py
+
+      - name: Find and validate all YAML patch files
+        run: |
+          PATCH_DIR="${GITHUB_WORKSPACE}/SaltySD/plugins/FPSLocker/patches"
+          EXECUTABLE="${GITHUB_WORKSPACE}/FPSLocker/tester/my_program"
+          FAILED=0
+          find "$PATCH_DIR" -type f -name "*.yaml" | while read -r yaml_file; do
+            echo "Validating: $yaml_file"
+            if "$EXECUTABLE" "$yaml_file"; then
+              filename=$(basename "$yaml_file" .yaml)
+              if grep -q " $filename" "$yaml_file"; then
+                echo "✓ Found ' $filename' in $yaml_file"
+              else
+                echo "✗ Error: ' $filename' not found"
+                FAILED=1
+              fi
+            else
+              FAILED=1
+            fi
+          done
+          exit $FAILED
+
+  sync-and-package:
+    if: |
+      github.event_name == 'schedule' ||
+      (github.event_name == 'workflow_dispatch' && 
+       (github.event.inputs.mode == 'both' || github.event.inputs.mode == 'sync-only'))
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout v4 branch
+        uses: actions/checkout@v4
+        with:
+          ref: v4
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Check Current Hour (UTC)
+        id: check_time
+        run: |
+          # 获取当前 UTC 小时
+          CURRENT_HOUR=$(date -u '+%H')
+          echo "hour=$CURRENT_HOUR" >> $GITHUB_OUTPUT
+          if [ "$CURRENT_HOUR" = "18" ]; then
+            echo "is_release_hour=true" >> $GITHUB_OUTPUT
+          else
+            echo "is_release_hour=false" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Sync Logic (Force reset to avoid conflicts)
+        id: sync_logic
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # 1. 备份当前仓库中的工作流文件（防止被重置）
+          mkdir -p /tmp/workflow_backup
+          cp -r .github/workflows/* /tmp/workflow_backup/
+          
+          # 2. 获取上游代码
+          git remote add upstream https://github.com/masagrator/FPSLocker-Warehouse.git || true
+          git fetch upstream v4
+          
+          # 3. 比较差异
+          if git diff --quiet HEAD upstream/v4; then
+            echo "No upstream changes."
+            echo "upstream_changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "Upstream changes detected. Resetting..."
+            echo "upstream_changed=true" >> $GITHUB_OUTPUT
+            
+            # 4. 强行重置本地到上游状态 (解决冲突的关键)
+            git reset --hard upstream/v4
+            
+            # 5. 还原备份的工作流文件
+            rm -rf .github/workflows/*
+            cp -r /tmp/workflow_backup/* .github/workflows/
+            
+            # 6. 提交并推送
+            git add .github/workflows/
+            if ! git diff --cached --quiet; then
+              git commit -m "Sync: Upstream updated, local workflows preserved"
+            fi
+            git push origin v4 --force
+          fi
+
+      - name: Sync to Gitee
+        run: |
+          git remote add gitee https://oauth2:${{ secrets.GITEE_TOKEN }}@gitee.com/sskyswitch/FPSLocker-Warehouse.git || true
+          git push gitee v4 --force
+        env:
+          GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
+      
+      - name: Prepare Version Info
+        id: version
+        run: |
+          TIMESTAMP=$(date -u '+%Y%m%d-%H%M%S')
+          COMMIT_SHORT=$(git rev-parse --short HEAD)
+          echo "version=sync-$TIMESTAMP-$COMMIT_SHORT" >> $GITHUB_OUTPUT
+          echo "timestamp=$TIMESTAMP" >> $GITHUB_OUTPUT
+      
+      - name: Create Package
+        run: |
+          mkdir -p fpslocker_package
+          # 使用 rsync 排除 git 相关目录进行打包
+          rsync -av --exclude='.git/' --exclude='.github/' ./ fpslocker_package/
+          cd fpslocker_package && zip -r ../fpslock.zip .
+      
+      - name: Create Release
+        # 仅在有更新或者是手动触发，且小时为 18 时运行
+        if: |
+          (steps.sync_logic.outputs.upstream_changed == 'true' || github.event_name == 'workflow_dispatch') &&
+          steps.check_time.outputs.is_release_hour == 'true'
+        uses: ncipollo/release-action@v1
+        with:
+          tag: ${{ steps.version.outputs.version }}
+          name: "Daily Build ${{ steps.version.outputs.timestamp }}"
+          body: "Automatic daily build from upstream sync. Workflows were preserved."
+          artifacts: "fpslock.zip"
+          prerelease: true
+          token: ${{ secrets.GITHUB_TOKEN }}
